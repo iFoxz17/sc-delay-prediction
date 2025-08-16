@@ -1,0 +1,619 @@
+{
+    "number": "1ZR465910413355567",
+    "carrier": 100002,
+    "param": null,
+    "tag": "",
+    "track_info": {
+        "shipping_info": {
+            "shipper_address": {
+                "country": "US",
+                "state": "MN",
+                "city": "THIEF RIVER FALLS",
+                "street": null,
+                "postal_code": "567012703",
+                "coordinates": {
+                    "longitude": null,
+                    "latitude": null
+                }
+            },
+            "recipient_address": {
+                "country": "IT",
+                "state": null,
+                "city": "GAZZANIGA",
+                "street": null,
+                "postal_code": "24029",
+                "coordinates": {
+                    "longitude": null,
+                    "latitude": null
+                }
+            }
+        },
+        "latest_status": {
+            "status": "Delivered",
+            "sub_status": "Delivered_Other",
+            "sub_status_descr": null
+        },
+        "latest_event": {
+            "time_iso": "2025-06-30T10:00:00+02:00",
+            "time_utc": "2025-06-30T08:00:00Z",
+            "time_raw": {
+                "date": "2025-06-30",
+                "time": "10:00:00",
+                "timezone": null
+            },
+            "description": "Delivered",
+            "location": "GAZZANIGA, IT",
+            "stage": "Delivered",
+            "sub_status": "Delivered_Other",
+            "address": {
+                "country": "IT",
+                "state": null,
+                "city": "GAZZANIGA",
+                "street": null,
+                "postal_code": "24029",
+                "coordinates": {
+                    "longitude": null,
+                    "latitude": null
+                }
+            }
+        },
+        "time_metrics": {
+            "days_after_order": 4,
+            "days_of_transit": 4,
+            "days_of_transit_done": 4,
+            "days_after_last_update": 0,
+            "estimated_delivery_date": {
+                "source": null,
+                "from": null,
+                "to": null
+            }
+        },
+        "milestone": [
+            {
+                "key_stage": "InfoReceived",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "PickedUp",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "Departure",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "Arrival",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "AvailableForPickup",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "OutForDelivery",
+                "time_iso": "2025-06-30T06:31:22+02:00",
+                "time_utc": "2025-06-30T04:31:22Z",
+                "time_raw": {
+                    "date": "2025-06-30",
+                    "time": "06:31:22",
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "Delivered",
+                "time_iso": "2025-06-30T10:00:00+02:00",
+                "time_utc": "2025-06-30T08:00:00Z",
+                "time_raw": {
+                    "date": "2025-06-30",
+                    "time": "10:00:00",
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "Returning",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            },
+            {
+                "key_stage": "Returned",
+                "time_iso": null,
+                "time_utc": null,
+                "time_raw": {
+                    "date": null,
+                    "time": null,
+                    "timezone": null
+                }
+            }
+        ],
+        "misc_info": {
+            "risk_factor": 0,
+            "service_type": null,
+            "weight_raw": "43.90LBS",
+            "weight_kg": "19.91",
+            "pieces": null,
+            "dimensions": null,
+            "customer_number": null,
+            "reference_number": "113884346 1,DK-1659-1,R465917XZQM,R465917XZMB,113884346 1,DK-1659-1",
+            "local_number": null,
+            "local_provider": null,
+            "local_key": 0
+        },
+        "tracking": {
+            "providers_hash": -833318745,
+            "providers": [
+                {
+                    "provider": {
+                        "key": 100002,
+                        "name": "UPS",
+                        "alias": "UPS",
+                        "tel": "+1 (800) 742-5877",
+                        "homepage": "https://www.ups.com/",
+                        "country": "US"
+                    },
+                    "provider_lang": null,
+                    "service_type": null,
+                    "latest_sync_status": "Success",
+                    "latest_sync_time": "2025-07-23T13:56:20Z",
+                    "events_hash": -1629951293,
+                    "events": [
+                        {
+                            "time_iso": "2025-06-30T10:00:00+02:00",
+                            "time_utc": "2025-06-30T08:00:00Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "10:00:00",
+                                "timezone": null
+                            },
+                            "description": "Delivered",
+                            "location": "GAZZANIGA, IT",
+                            "stage": "Delivered",
+                            "sub_status": "Delivered_Other",
+                            "address": {
+                                "country": "IT",
+                                "state": null,
+                                "city": "GAZZANIGA",
+                                "street": null,
+                                "postal_code": "24029",
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-30T06:31:22+02:00",
+                            "time_utc": "2025-06-30T04:31:22Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "06:31:22",
+                                "timezone": null
+                            },
+                            "description": "Out For Delivery",
+                            "location": "Treviolo, IT",
+                            "stage": "OutForDelivery",
+                            "sub_status": "OutForDelivery_Other",
+                            "address": {
+                                "country": "IT",
+                                "state": null,
+                                "city": "Treviolo",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-30T06:00:00+02:00",
+                            "time_utc": "2025-06-30T04:00:00Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "06:00:00",
+                                "timezone": null
+                            },
+                            "description": "Arrived at Facility",
+                            "location": "Treviolo, IT",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "IT",
+                                "state": null,
+                                "city": "Treviolo",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-30T03:50:00+02:00",
+                            "time_utc": "2025-06-30T01:50:00Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "03:50:00",
+                                "timezone": null
+                            },
+                            "description": "Departed from Facility",
+                            "location": "Seriate, IT",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "IT",
+                                "state": null,
+                                "city": "Seriate",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-30T02:04:00+02:00",
+                            "time_utc": "2025-06-30T00:04:00Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "02:04:00",
+                                "timezone": null
+                            },
+                            "description": "Arrived at Facility",
+                            "location": "Seriate, IT",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "IT",
+                                "state": null,
+                                "city": "Seriate",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-30T01:00:00+02:00",
+                            "time_utc": "2025-06-29T23:00:00Z",
+                            "time_raw": {
+                                "date": "2025-06-30",
+                                "time": "01:00:00",
+                                "timezone": null
+                            },
+                            "description": "Departed from Facility",
+                            "location": "Koeln, DE",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "DE",
+                                "state": null,
+                                "city": "Koeln",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T23:28:10+02:00",
+                            "time_utc": "2025-06-27T21:28:10Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "23:28:10",
+                                "timezone": null
+                            },
+                            "description": "Import Scan",
+                            "location": "Koeln, DE",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "DE",
+                                "state": null,
+                                "city": "Koeln",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T19:13:00+02:00",
+                            "time_utc": "2025-06-27T17:13:00Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "19:13:00",
+                                "timezone": null
+                            },
+                            "description": "Arrived at Facility",
+                            "location": "Koeln, DE",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "DE",
+                                "state": null,
+                                "city": "Koeln",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T12:18:08-04:00",
+                            "time_utc": "2025-06-27T16:18:08Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "12:18:08",
+                                "timezone": null
+                            },
+                            "description": "Your package has been released by the Government Agency and is on the way.",
+                            "location": null,
+                            "stage": null,
+                            "sub_status": "InTransit_CustomsReleased",
+                            "address": {
+                                "country": null,
+                                "state": null,
+                                "city": null,
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T12:18:08-04:00",
+                            "time_utc": "2025-06-27T16:18:08Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "12:18:08",
+                                "timezone": null
+                            },
+                            "description": "Your package is on the way",
+                            "location": null,
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": null,
+                                "state": null,
+                                "city": null,
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T11:04:00-04:00",
+                            "time_utc": "2025-06-27T15:04:00Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "11:04:00",
+                                "timezone": null
+                            },
+                            "description": "Your package has cleared customs and is on the way.",
+                            "location": null,
+                            "stage": null,
+                            "sub_status": "InTransit_CustomsReleased",
+                            "address": {
+                                "country": null,
+                                "state": null,
+                                "city": null,
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T12:02:34+02:00",
+                            "time_utc": "2025-06-27T10:02:34Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "12:02:34",
+                                "timezone": null
+                            },
+                            "description": "Your package is pending release from a Government Agency. Once they release it, your package will be on its way.",
+                            "location": "Koeln, DE",
+                            "stage": null,
+                            "sub_status": "InTransit_CustomsProcessing",
+                            "address": {
+                                "country": "DE",
+                                "state": null,
+                                "city": "Koeln",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T05:44:00-04:00",
+                            "time_utc": "2025-06-27T09:44:00Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "05:44:00",
+                                "timezone": null
+                            },
+                            "description": "Departed from Facility",
+                            "location": "Louisville, KY, US",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "US",
+                                "state": "KY",
+                                "city": "Louisville",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-27T02:14:28-04:00",
+                            "time_utc": "2025-06-27T06:14:28Z",
+                            "time_raw": {
+                                "date": "2025-06-27",
+                                "time": "02:14:28",
+                                "timezone": null
+                            },
+                            "description": "Export Scan",
+                            "location": "Louisville, KY, US",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "US",
+                                "state": "KY",
+                                "city": "Louisville",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-26T22:00:00-04:00",
+                            "time_utc": "2025-06-27T02:00:00Z",
+                            "time_raw": {
+                                "date": "2025-06-26",
+                                "time": "22:00:00",
+                                "timezone": null
+                            },
+                            "description": "Departed from Facility",
+                            "location": "Thief River Falls, MN, US",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "US",
+                                "state": "MN",
+                                "city": "Thief River Falls",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-26T21:50:31-04:00",
+                            "time_utc": "2025-06-27T01:50:31Z",
+                            "time_raw": {
+                                "date": "2025-06-26",
+                                "time": "21:50:31",
+                                "timezone": null
+                            },
+                            "description": "Shipper created a label, UPS has not received the package yet.",
+                            "location": "US",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "US",
+                                "state": null,
+                                "city": null,
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        },
+                        {
+                            "time_iso": "2025-06-26T20:03:08-04:00",
+                            "time_utc": "2025-06-27T00:03:08Z",
+                            "time_raw": {
+                                "date": "2025-06-26",
+                                "time": "20:03:08",
+                                "timezone": null
+                            },
+                            "description": "Arrived at Facility",
+                            "location": "Thief River Falls, MN, US",
+                            "stage": null,
+                            "sub_status": "InTransit_Other",
+                            "address": {
+                                "country": "US",
+                                "state": "MN",
+                                "city": "Thief River Falls",
+                                "street": null,
+                                "postal_code": null,
+                                "coordinates": {
+                                    "longitude": null,
+                                    "latitude": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "lang": null,
+    "destination_postal_code": null,
+    "origin_country": null,
+    "destination_country": null,
+    "destination_city": null,
+    "ship_date": null,
+    "shipper": null,
+    "consignee": null,
+    "phone_number_last_4": null,
+    "phone_number": null,
+    "cpf_or_cnpj": null,
+    "special_tracking_info": null
+}
