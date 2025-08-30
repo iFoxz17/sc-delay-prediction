@@ -1,0 +1,2 @@
+-r ../stats_layer/requirements.txt
+-r ../platform_comm_layer/requirements.txt

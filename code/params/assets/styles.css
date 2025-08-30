@@ -1,0 +1,149 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    font-family: "Segoe UI", sans-serif;
+    padding: 2rem;
+}
+.dashboard-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 2rem;
+}
+.filter-container {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.filter-item {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 200px;
+}
+.filter-input {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+.edit-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+}
+
+.edit-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.edit-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.section-label {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.btn-warning {
+    background-color: #e8b007;
+    color: white;
+}
+.action-bar {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    flex-wrap: nowrap;
+    justify-content: space-between; /* space between buttons (left) and alert (right) */
+}
+
+.action-buttons {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: nowrap;
+}
+
+/* Remove margin-bottom so height lines up better */
+.alert {
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    margin: 0;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 16px;
+    white-space: nowrap;
+    max-width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* Keep Bootstrap red background and white text */
+.alert-danger {
+    background-color: #dc3545 !important;
+    color: white !important;
+}
+
+.alert-warning {
+    background-color: #ffc107 !important;
+    color: white !important;
+}
+
+.alert-success {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn:hover {
+    opacity: 0.9;
+}
+.btn-primary { background-color: #3498db; color: white; }
+.btn-success { background-color: #2ecc71; color: white; }
+.btn-danger { background-color: #e74c3c; color: white; }
+
+.edit-toggle {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+.spinner {
+    border: 12px solid #f3f3f3;
+    border-top: 12px solid #3498db;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

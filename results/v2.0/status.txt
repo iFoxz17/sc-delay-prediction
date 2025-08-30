@@ -1,0 +1,23 @@
+Holidays:
+    - all considered
+
+DT:
+    - confidence = 0.9
+
+Alpha:
+    - polynomial
+    - tt_weight optimized for site = 3, carrier = 2 
+
+RTEstimator:
+    - returns always avg_oti
+    - mape = 0.766022
+
+PT:
+    - confidence = 0.9
+
+TT:
+    - confidence = 0.9
+
+Time deviation:
+    - dispatch confidence = 0.5
+    - shipment confidence = 0.5

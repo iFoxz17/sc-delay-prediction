@@ -1,0 +1,231 @@
+id,code,name,total_holidays,weekend_start,weekend_end
+1,AD,Andorra,28,6,7
+2,AE,United Arab Emirates,23,6,7
+3,AF,Afghanistan,24,5,6
+4,AG,Antigua and Barbuda,15,6,7
+5,AI,Anguilla,19,6,7
+6,AL,Albania,33,6,7
+7,AM,Armenia,37,6,7
+8,AO,Angola,18,6,7
+9,AR,Argentina,41,6,7
+10,AS,American Samoa,17,6,7
+11,AT,Austria,36,6,7
+12,AU,Australia,104,6,7
+13,AW,Aruba,15,6,7
+14,AZ,Azerbaijan,33,6,7
+15,BA,Bosnia and Herzegovina,38,6,7
+16,BB,Barbados,25,6,7
+17,BD,Bangladesh,63,5,6
+18,BE,Belgium,32,6,7
+19,BF,Burkina Faso,18,6,7
+20,BG,Bulgaria,28,6,7
+21,BH,Bahrain,21,5,6
+22,BI,Burundi,18,6,7
+23,BJ,Benin,22,6,7
+24,BL,St. Barts,22,6,7
+25,BM,Bermuda,23,6,7
+26,BN,Brunei,23,5,7
+27,BO,Bolivia,24,6,7
+28,BR,Brazil,29,6,7
+29,BS,The Bahamas,24,6,7
+30,BT,Bhutan,26,6,7
+31,BW,Botswana,21,6,7
+32,BY,Belarus,32,6,7
+33,BZ,Belize,19,6,7
+34,CA,Canada,118,6,7
+35,CD,Congo Democratic Republic,22,6,7
+36,CF,Central African Republic,18,6,7
+37,CG,Congo,17,6,7
+38,CH,Switzerland,41,6,7
+39,CI,Cote d'Ivoire,18,6,7
+40,CK,Cook Islands,16,6,7
+41,CL,Chile,23,6,7
+42,CM,Cameroon,18,6,7
+43,CN,China,44,6,7
+44,CO,Colombia,38,6,7
+45,CR,Costa Rica,23,6,7
+46,CU,Cuba,22,6,7
+47,CV,Cabo Verde,15,6,7
+48,CW,Curaçao,18,6,7
+49,CY,Cyprus,26,6,7
+50,CZ,Czechia,32,6,7
+51,DE,Germany,78,6,7
+52,DJ,Djibouti,16,5,5
+53,DK,Denmark,25,6,7
+54,DM,Dominica,19,6,7
+55,DO,Dominican Republic,21,6,7
+56,DZ,Algeria,16,5,6
+57,EC,Ecuador,26,6,7
+58,EE,Estonia,16,6,7
+59,EG,Egypt,30,5,6
+60,ER,Eritrea,20,6,7
+61,ES,Spain,70,6,7
+62,ET,Ethiopia,17,6,7
+63,FI,Finland,23,6,7
+64,FJ,Fiji,16,6,7
+65,FK,Falkland Islands,17,6,7
+66,FM,Micronesia,24,6,7
+67,FO,Faroe Islands,23,6,7
+68,FR,France,25,6,7
+69,GA,Gabon,19,6,7
+70,GB,United Kingdom,95,6,7
+71,GD,Grenada,20,6,7
+72,GE,Georgia,25,6,7
+73,GG,Guernsey,18,6,7
+74,GH,Ghana,26,6,7
+75,GI,Gibraltar,26,6,7
+76,GL,Greenland,21,6,7
+77,GM,Gambia,19,6,7
+78,GN,Guinea,16,6,7
+79,GQ,Equatorial Guinea,19,7,7
+80,GR,Greece,24,6,7
+81,GT,Guatemala,25,6,7
+82,GU,Guam,19,6,7
+83,GW,Guinea-Bissau,13,6,7
+84,GY,Guyana,23,6,7
+85,HK,Hong Kong,30,6,7
+86,HN,Honduras,24,6,7
+87,HR,Croatia,23,6,7
+88,HT,Haiti,23,6,7
+89,HU,Hungary,26,6,7
+90,ID,Indonesia,35,6,7
+91,IE,Ireland,17,6,7
+92,IL,Israel,54,5,6
+93,IM,Isle of Man,16,6,7
+94,IN,India,72,6,7
+95,IQ,Iraq,25,5,6
+96,IR,Iran,26,4,5
+97,IS,Iceland,28,6,7
+98,IT,Italy,24,6,7
+99,JE,Jersey,15,6,7
+100,JM,Jamaica,20,6,7
+101,JO,Jordan,29,5,6
+102,JP,Japan,36,6,7
+103,KE,Kenya,22,6,7
+104,KG,Kyrgyzstan,22,6,7
+105,KH,Cambodia,36,6,7
+106,KI,Kiribati,19,6,7
+107,KM,Comoros,17,6,7
+108,KN,Saint Kitts and Nevis,16,6,7
+109,KP,North Korea,21,6,7
+110,KR,South Korea,31,6,7
+111,KW,Kuwait,19,5,6
+112,KY,Cayman Islands,24,6,7
+113,KZ,Kazakhstan,26,6,7
+114,LA,Laos,22,6,7
+115,LB,Lebanon,36,6,7
+116,LC,Saint Lucia,17,6,7
+117,LI,Liechtenstein,28,6,7
+118,LK,Sri Lanka,42,6,7
+119,LR,Liberia,17,6,7
+120,LS,Lesotho,15,6,7
+121,LT,Lithuania,27,6,7
+122,LU,Luxembourg,20,6,7
+123,LV,Latvia,27,6,7
+124,LY,Libya,18,5,6
+125,MA,Morocco,23,6,7
+126,MC,Monaco,24,6,7
+127,MD,Moldova,45,6,7
+128,ME,Montenegro,33,6,7
+129,MF,Saint Martin,19,6,7
+130,MG,Madagascar,18,6,7
+131,MH,Marshall Islands,17,6,7
+132,MK,North Macedonia,46,6,7
+133,ML,Mali,17,6,7
+134,MM,Myanmar,35,6,7
+135,MN,Mongolia,31,6,7
+136,MO,Macau,33,6,7
+137,MP,Northern Mariana Islands,20,6,7
+138,MQ,Martinique,19,6,7
+139,MR,Mauritania,12,6,7
+140,MS,Montserrat,16,6,7
+141,MT,Malta,21,6,7
+142,MU,Mauritius,27,6,7
+143,MV,Maldives,27,5,6
+144,MW,Malawi,19,6,7
+145,MX,Mexico,45,6,7
+146,MY,Malaysia,64,6,7
+147,MZ,Mozambique,16,6,7
+148,NA,Namibia,18,6,7
+149,NC,New Caledonia,17,6,7
+150,NE,Niger,18,6,7
+151,NG,Nigeria,36,6,7
+152,NI,Nicaragua,22,6,7
+153,NL,Netherlands,21,6,7
+154,NO,Norway,44,6,7
+155,NP,Nepal,52,6,6
+156,NR,Nauru,18,6,7
+157,NZ,New Zealand,38,6,7
+158,OM,Oman,22,5,6
+159,PA,Panama,28,6,7
+160,PE,Peru,30,6,7
+161,PF,French Polynesia,17,6,7
+162,PG,Papua New Guinea,15,6,7
+163,PH,Philippines,35,6,7
+164,PK,Pakistan,55,6,7
+165,PL,Poland,25,6,7
+166,PM,Saint Pierre and Miquelon,17,6,7
+167,PR,Puerto Rico,30,6,7
+168,PT,Portugal,41,6,7
+169,PW,Palau,17,6,7
+170,PY,Paraguay,20,6,7
+171,QA,Qatar,23,5,6
+172,RE,Reunion,16,6,7
+173,RO,Romania,35,6,7
+174,RS,Serbia,23,6,7
+175,RU,Russia,31,6,7
+176,RW,Rwanda,17,6,7
+177,SA,Saudi Arabia,16,5,6
+178,SB,Solomon Islands,31,6,7
+179,SC,Seychelles,19,6,7
+180,SD,Sudan,19,5,6
+181,SE,Sweden,34,6,7
+182,SG,Singapore,33,6,7
+183,SH,Saint Helena,14,6,7
+184,SI,Slovenia,23,6,7
+185,SK,Slovakia,36,6,7
+186,SL,Sierra Leone,15,6,7
+187,SM,San Marino,28,6,7
+188,SN,Senegal,20,6,7
+189,SO,Somalia,16,5,5
+190,SR,Suriname,20,6,7
+191,SS,South Sudan,21,6,7
+192,ST,Sao Tome and Principe,12,6,7
+193,SV,El Salvador,29,6,7
+194,SX,Sint Maarten,18,6,7
+195,SY,Syria,21,5,6
+196,SZ,eSwatini,17,6,7
+197,TC,Turks and Caicos Islands,18,6,7
+198,TD,Chad,19,6,7
+199,TG,Togo,19,6,7
+200,TH,Thailand,43,6,7
+201,TJ,Tajikistan,17,6,7
+202,TL,East Timor,19,6,7
+203,TM,Turkmenistan,23,6,7
+204,TN,Tunisia,19,6,7
+205,TO,Tonga,19,6,7
+206,TR,Turkey,24,6,7
+207,TT,Trinidad and Tobago,27,6,7
+208,TV,Tuvalu,17,6,7
+209,TW,Taiwan,51,6,7
+210,TZ,Tanzania,23,6,7
+211,UA,Ukraine,37,6,7
+212,UG,Uganda,21,7,7
+213,US,United States,418,6,7
+214,UY,Uruguay,25,6,7
+215,UZ,Uzbekistan,14,6,7
+216,VA,Vatican City (Holy See),29,6,7
+217,VC,Saint Vincent and the Grenadines,16,6,7
+218,VE,Venezuela,42,6,7
+219,VG,British Virgin Islands,19,6,7
+220,VI,US Virgin Islands,29,6,7
+221,VN,Vietnam,32,6,7
+222,VU,Vanuatu,18,6,7
+223,WF,Wallis and Futuna,16,6,7
+224,WS,Samoa,17,6,7
+225,XK,Kosovo,30,6,7
+226,YE,Yemen,22,5,6
+227,YT,Mayotte,19,6,7
+228,ZA,South Africa,41,6,7
+229,ZM,Zambia,22,6,7
+230,ZW,Zimbabwe,22,6,7

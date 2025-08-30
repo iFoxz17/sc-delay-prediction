@@ -1,0 +1,1 @@
+id,vertex_id,order_id,shipment_time,event_time,estimation_time,DT,PT_lower,PT_n_paths,PT_avg_tmi,PT_avg_wmi,PT_upperTT_lower,TT_upper,TFST_lower,TFST_upper,EST,EODT,CFDI_lower,CFDI_upper,EDD,time_deviation_id,alpha_id,pt_confidence,tt_confidence

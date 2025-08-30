@@ -1,0 +1,22 @@
+id,supplier_id,location_name,n_rejections,n_orders,consider_closure_holidays,consider_working_holidays,consider_weekends_holidays
+1,1,"LEEDS, ENGLAND, GB",0,5,True,True,True
+2,2,"LOUISVILLE, KENTUCKY, US",0,3,True,True,True
+3,2,"THIEF RIVER FALLS, MINNESOTA, US",0,61,True,True,True
+4,3,"GRAND PRAIRIE, TEXAS, US",0,5,True,True,True
+5,4,"MONTAGNOLA, TICINO, CH",0,1,True,True,True
+6,4,"PEABODY, MASSACHUSETTS, US",0,3,True,True,True
+7,4,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+8,5,"DONGGUAN, GUANGDONG, CN",0,2,True,True,True
+9,5,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+10,7,"HONG KONG, UNKNOWN, HK",0,1,True,True,True
+11,7,"ZHUHAI, GUANGDONG, CN",0,1,True,True,True
+12,8,"WARSAW, MAZOVIA, PL",0,1,True,True,True
+13,9,"HO CHI MINH CITY, HO CHI MINH, VN",0,1,True,True,True
+14,9,"SAN JOSÉ, SAN JOSÉ, CR",0,1,True,True,True
+15,10,"BRATISLAVA, BRATISLAVA REGION, SK",0,1,True,True,True
+16,10,"GDANSK, POMERANIA, PL",0,3,True,True,True
+17,11,"SHENZHEN, GUANGDONG, CN",0,3,True,True,True
+18,12,"BOCA RATON, FLORIDA, US",0,1,True,True,True
+19,13,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+20,14,"MINNEAPOLIS, MINNESOTA, US",0,1,True,True,True
+21,16,"TSUEN WAN, TSUEN WAN, HK",0,1,True,True,True

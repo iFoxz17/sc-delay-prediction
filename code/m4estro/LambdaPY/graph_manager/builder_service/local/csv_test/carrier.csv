@@ -1,0 +1,21 @@
+id,name,carrier_17track_id,n_losses,n_orders
+1,DHL Express,100001,0,5
+2,UPS,100002,0,72
+3,FedEx,100003,0,13
+4,DHL,100004,0,16
+5,DPD,100005,0,0
+6,GLS,100006,0,0
+7,Hermes,100007,0,0
+8,TNT,100008,0,0
+9,Royal Mail,100009,0,0
+10,USPS,100010,0,0
+11,Canada Post,100011,0,0
+12,Australia Post,100012,0,0
+13,Japan Post,100013,0,0
+14,China Post,100014,0,0
+15,India Post,100015,0,0
+16,PostNL,100016,0,0
+17,Correos,100017,0,0
+18,La Poste,100018,0,0
+19,Sagawa Express,100019,0,0
+20,Yamato Transport,100020,0,0

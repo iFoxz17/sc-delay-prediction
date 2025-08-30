@@ -1,0 +1,5 @@
+id,manufacturer_id,manufacturer_order_id,site_id,carrier_id,status,n_steps,tracking_link,tracking_number,manufacturer_creation_timestamp,manufacturer_estimated_delivery_timestamp,manufacturer_confirmed_delivery_timestamp,carrier_creation_timestamp,carrier_estimated_delivery_timestamp,carrier_confirmed_delivery_timestamp,SLS
+48,1,7292,3,2,PENDING,10,https://www.ups.com/track?tracknum=1ZR465910413314324,1ZR465910413314324,2025-05-07T10:14+02:00,2025-05-08T22:00+02:00,,,,,0
+49,1,7302,2,2,IN_TRANSIT,9,https://www.ups.com/track?tracknum=1ZR465910413314315,1ZR465910413314315,2025-05-07T10:14+02:00,2025-05-12T00:00+02:00,,2025-05-08T02:27-04:00,,,0
+50,1,7325,3,2,IN_TRANSIT,10,https://www.ups.com/track?tracknum=1ZR465910413315449,1ZR465910413315449,2025-05-08T09:17+02:00,2025-05-11T22:00+02:00,,2025-05-08T14:17-04:00,,,0
+51,1,7357,3,2,IN_TRANSIT,12,https://www.ups.com/track?tracknum=1ZR465910413316617,1ZR465910413316617,2025-05-09T11:10+02:00,2025-05-12T22:00+02:00,,2025-05-09T15:07-04:00,,,0

@@ -1,0 +1,17 @@
+# Get all SLS disruptions
+curl "$API_URL/disruptions?sls=true"
+
+# Get external disruptions with pagination
+curl "$API_URL/disruptions?external=true&page=1&page_size=10"
+
+# Get disruptions for specific order with order details
+curl "$API_URL/disruptions?order_id=123&include_order_details=true"
+
+# Get delayed disruptions sorted by creation date
+curl "$API_URL/disruptions?delayed=true&sort_by=created_at&sort_order=desc"
+
+# Get statistics for last 48 hours
+curl "$API_URL/disruptions/stats?hours=48"
+
+# Get disruptions within date range
+curl "$API_URL/disruptions?from_date=2024-01-01T00:00:00Z&to_date=2024-01-31T23:59:59Z"

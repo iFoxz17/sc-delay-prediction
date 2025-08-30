@@ -1,0 +1,793 @@
+order_id,step,status,timestamp,location
+5,1,Picked up,2025-01-13T14:15-06:00,"GRAND PRAIRIE, TX"
+5,2,On the way,2025-01-13T14:15-06:00,"GRAND PRAIRIE, TX"
+5,3,Left FedEx origin facility,2025-01-13T17:40-06:00,"MANSFIELD, TX"
+5,4,Arrived at FedEx hub,2025-01-13T18:15-06:00,"FORT WORTH, TX"
+5,5,Departed FedEx hub,2025-01-13T21:09-06:00,"FORT WORTH, TX"
+5,6,Arrived at FedEx hub,2025-01-13T22:14-06:00,"MEMPHIS, TN"
+5,7,On the way,2025-01-14T03:33-06:00,"MEMPHIS, TN"
+5,8,Departed FedEx hub,2025-01-14T03:47-06:00,"MEMPHIS, TN"
+5,9,Arrived at FedEx hub,2025-01-14T18:56+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+5,10,On the way,2025-01-14T21:03+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+5,11,On the way,2025-01-15T03:28+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+5,12,Departed FedEx hub,2025-01-15T04:17+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+5,13,At destination sort facility,2025-01-15T05:25+01:00,LONATE POZZOLO IT
+5,14,On the way,2025-01-15T06:06+01:00,LONATE POZZOLO IT
+5,15,At local FedEx facility,2025-01-15T09:04+01:00,GRASSOBBIO IT
+5,16,On FedEx vehicle for delivery,2025-01-15T09:17+01:00,GRASSOBBIO IT
+5,17,Delivered,2025-01-15T12:49+01:00,"GAZZANIGA, IT"
+8,1,Picked up,2025-01-21T20:48-06:00,"GRAND PRAIRIE, TX"
+8,2,Left FedEx origin facility,2025-01-21T21:00-06:00,"MANSFIELD, TX"
+8,3,Arrived at FedEx hub,2025-01-22T01:30-06:00,"MEMPHIS, TN"
+8,4,On the way,2025-01-22T02:22-06:00,"MEMPHIS, TN"
+8,5,On the way,2025-01-22T04:03-06:00,"MEMPHIS, TN"
+8,6,Departed FedEx hub,2025-01-22T04:08-06:00,"MEMPHIS, TN"
+8,7,Arrived at FedEx hub,2025-01-22T18:50+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+8,8,On the way,2025-01-22T19:39+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+8,9,At local FedEx facility,2025-01-22T23:00+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+8,10,On the way,2025-01-23T03:45+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+8,11,Departed FedEx hub,2025-01-23T04:20+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+8,12,At destination sort facility,2025-01-23T05:24+01:00,LONATE POZZOLO IT
+8,13,On the way,2025-01-23T06:39+01:00,LONATE POZZOLO IT
+8,14,Departed FedEx hub,2025-01-23T07:24+01:00,LONATE POZZOLO IT
+8,15,At local FedEx facility,2025-01-23T08:51+01:00,GRASSOBBIO IT
+8,16,On FedEx vehicle for delivery,2025-01-23T09:49+01:00,GRASSOBBIO IT
+8,17,Delivered,2025-01-23T14:30+01:00,"GAZZANIGA, IT"
+12,1,Picked up,2025-01-24T17:07-06:00,"GRAND PRAIRIE, TX"
+12,2,On the way,2025-01-24T17:07-06:00,"GRAND PRAIRIE, TX"
+12,3,Left FedEx origin facility,2025-01-24T17:40-06:00,"MANSFIELD, TX"
+12,4,Arrived at FedEx hub,2025-01-24T22:30-06:00,"MEMPHIS, TN"
+12,5,On the way,2025-01-25T04:23-06:00,"MEMPHIS, TN"
+12,6,On the way,2025-01-25T04:24-06:00,"MEMPHIS, TN"
+12,7,Departed FedEx hub,2025-01-25T05:17-06:00,"MEMPHIS, TN"
+12,8,Arrived at FedEx hub,2025-01-25T20:06+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+12,9,On the way,2025-01-25T22:01+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+12,10,On the way,2025-01-25T22:28+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+12,11,Departed FedEx hub,2025-01-26T02:45+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+12,12,Arrived at FedEx hub,2025-01-26T15:45+01:00,LONATE POZZOLO IT
+12,13,On the way,2025-01-28T00:01+01:00,LONATE POZZOLO IT
+12,14,Departed FedEx hub,2025-01-28T05:40+01:00,LONATE POZZOLO IT
+12,15,At local FedEx facility,2025-01-28T08:53+01:00,GRASSOBBIO IT
+12,16,On FedEx vehicle for delivery,2025-01-28T09:32+01:00,GRASSOBBIO IT
+12,17,Delivered,2025-01-28T12:50+01:00,"GAZZANIGA, IT"
+16,1,Picked up,2025-01-27T14:53-06:00,"GRAND PRAIRIE, TX"
+16,2,On the way,2025-01-27T14:53-06:00,"GRAND PRAIRIE, TX"
+16,3,Left FedEx origin facility,2025-01-27T17:28-06:00,"MANSFIELD, TX"
+16,4,Arrived at FedEx hub,2025-01-27T18:30-06:00,"FORT WORTH, TX"
+16,5,Departed FedEx hub,2025-01-27T21:05-06:00,"FORT WORTH, TX"
+16,6,Arrived at FedEx hub,2025-01-27T22:15-06:00,"MEMPHIS, TN"
+16,7,On the way,2025-01-28T03:18-06:00,"MEMPHIS, TN"
+16,8,Departed FedEx hub,2025-01-28T03:43-06:00,"MEMPHIS, TN"
+16,9,Arrived at FedEx hub,2025-01-28T18:38+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+16,10,On the way,2025-01-28T20:49+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+16,11,On the way,2025-01-29T04:08+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+16,12,Departed FedEx hub,2025-01-29T04:15+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+16,13,At destination sort facility,2025-01-29T05:21+01:00,LONATE POZZOLO IT
+16,14,On the way,2025-01-29T06:08+01:00,LONATE POZZOLO IT
+16,15,At local FedEx facility,2025-01-29T08:53+01:00,GRASSOBBIO IT
+16,16,On FedEx vehicle for delivery,2025-01-29T09:30+01:00,GRASSOBBIO IT
+16,17,Delivered,2025-01-29T12:03+01:00,"GAZZANIGA, IT"
+17,1,Picked up,2025-02-05T18:08+08:00,ZHUHAI CN
+17,2,Left FedEx origin facility,2025-02-05T19:14+08:00,ZHUHAI CN
+17,3,On the way,2025-02-06T22:09+08:00,GUANGZHOU CN
+17,4,International shipment release - Export,2025-02-06T22:10+08:00,GUANGZHOU CN
+17,5,Arrived at FedEx hub,2025-02-06T22:10+08:00,GUANGZHOU CN
+17,6,International shipment release - Export,2025-02-06T23:36+08:00,GUANGZHOU CN
+17,7,Departed FedEx hub,2025-02-07T05:00+08:00,GUANGZHOU CN
+17,8,On the way,2025-02-07T06:18+08:00,GUANGZHOU CN
+17,9,On the way,2025-02-07T10:15+05:30,NEW DELHI IN
+17,10,On the way,2025-02-07T10:23+05:30,NEW DELHI IN
+17,11,On the way,2025-02-07T13:59+04:00,DUBAI WORLD CENTRAL (DWC) AE
+17,12,On the way,2025-02-07T14:00+04:00,DUBAI WORLD CENTRAL AE
+17,13,Arrived at FedEx hub,2025-02-07T19:19+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+17,14,On the way,2025-02-07T20:55+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+17,15,On the way,2025-02-08T00:17+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+17,16,Departed FedEx hub,2025-02-08T01:45+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+17,17,Arrived at FedEx hub,2025-02-09T10:00+01:00,LONATE POZZOLO IT
+17,18,International shipment release - Import,2025-02-09T11:10+01:00,LONATE POZZOLO IT
+17,19,International shipment release - Import,2025-02-09T15:20+01:00,LONATE POZZOLO IT
+17,20,On the way,2025-02-09T15:20+01:00,LONATE POZZOLO IT
+17,21,Departed FedEx hub,2025-02-09T20:30+01:00,LONATE POZZOLO IT
+17,22,At local FedEx facility,2025-02-10T08:15+01:00,GRASSOBBIO IT
+17,23,On FedEx vehicle for delivery,2025-02-10T09:27+01:00,GRASSOBBIO IT
+17,24,Delivered,2025-02-10T10:19+01:00,"GAZZANIGA, IT"
+22,1,Picked up,2025-02-08T10:58-06:00,"GRAND PRAIRIE, TX"
+22,2,Left FedEx origin facility,2025-02-08T13:35-06:00,"MANSFIELD, TX"
+22,3,Arrived at FedEx hub,2025-02-09T04:04-06:00,"MEMPHIS, TN"
+22,4,On the way,2025-02-09T16:59-06:00,"MEMPHIS, TN"
+22,5,Departed FedEx hub,2025-02-09T18:29-06:00,"MEMPHIS, TN"
+22,6,Arrived at FedEx hub,2025-02-10T09:50+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+22,7,On the way,2025-02-10T17:38+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+22,8,On the way,2025-02-10T20:17+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+22,9,Departed FedEx hub,2025-02-10T20:47+01:00,ROISSY CHARLES DE GAULLE CEDEX FR
+22,10,At destination sort facility,2025-02-10T22:03+01:00,LONATE POZZOLO IT
+22,11,On the way,2025-02-10T23:56+01:00,LONATE POZZOLO IT
+22,12,At local FedEx facility,2025-02-11T09:59+01:00,LONATE POZZOLO IT
+22,13,Departed FedEx hub,2025-02-12T02:47+01:00,LONATE POZZOLO IT
+22,14,At local FedEx facility,2025-02-12T07:51+01:00,GRASSOBBIO IT
+22,15,On FedEx vehicle for delivery,2025-02-12T09:01+01:00,GRASSOBBIO IT
+22,16,Delivered,2025-02-12T14:23+01:00,"GAZZANIGA, IT"
+1,1,Spedizione ritirata,2025-01-14T17:16+08:00,"DONGGUAN , CHINA, PEOPLES REPUBLIC"
+1,2,"Spedizione in transito - DONGGUAN - CHINA, PEOPLES REPUBLIC",2025-01-15T01:40+08:00,"DONGGUAN , CHINA, PEOPLES REPUBLIC"
+1,3,"La spedizione e' partita da una sede DHL DONGGUAN - CHINA, PEOPLES REPUBLIC",2025-01-15T02:05+08:00,"DONGGUAN , CHINA, PEOPLES REPUBLIC"
+1,4,"Spedizione arrivata presso il centro di smistamento DHL SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-01-15T05:46+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+1,5,"Spedizione in transito - SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-01-15T12:16+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+1,6,"Spedizione in transito - SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-01-16T01:07+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+1,7,"La spedizione e' partita da una sede DHL SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-01-16T12:03+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+1,8,La spedizione e' in transito,2025-01-17T00:01+01:00,"BRUSSELS , BELGIUM"
+1,9,La spedizione e' partita da una sede DHL BRUSSELS - BELGIUM,2025-01-17T00:02+01:00,"BRUSSELS , BELGIUM"
+1,10,Spedizione arrivata presso il centro di smistamento DHL LEIPZIG - GERMANY,2025-01-17T02:01+01:00,"LEIPZIG , GERMANY"
+1,11,Spedizione in transito - LEIPZIG - GERMANY,2025-01-17T02:37+01:00,"LEIPZIG , GERMANY"
+1,12,La spedizione e' partita da una sede DHL LEIPZIG - GERMANY,2025-01-17T05:02+01:00,"LEIPZIG , GERMANY"
+1,13,Spedizione arrivata presso il centro di smistamento DHL BRESCIA - ITALY,2025-01-17T06:29+01:00,"BRESCIA , ITALY"
+1,14,Spedizione in transito - BRESCIA - ITALY,2025-01-17T07:03+01:00,"BRESCIA , ITALY"
+1,15,La spedizione e' partita da una sede DHL BRESCIA - ITALY,2025-01-17T08:15+01:00,"BRESCIA , ITALY"
+1,16,Spedizione arrivata presso la filiale di consegna DHL. BERGAMO - ITALY,2025-01-17T08:59+01:00,"BERGAMO , ITALY"
+1,17,Spedizione in transito - BERGAMO - ITALY,2025-01-17T09:24+01:00,"BERGAMO , ITALY"
+1,18,La spedizione e' in fase di consegna,2025-01-17T09:28+01:00,"BERGAMO , ITALY"
+1,19,Spedizione Consegnata,2025-01-17T11:40+01:00,"GAZZANIGA, IT"
+21,1,Shipment picked up,2025-02-05T16:16+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+21,2,"Arrived at DHL Sort Facility  HONG KONG - HONG KONG SAR, CHINA",2025-02-05T23:07+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+21,3,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-02-06T05:30+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+21,4,"Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",2025-02-06T05:44+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+21,5,Shipment is in transit to destination,2025-02-06T20:09+00:00,"EAST MIDLANDS , UK"
+21,6,Shipment has departed from a DHL facility EAST MIDLANDS - UK,2025-02-06T20:10+00:00,"EAST MIDLANDS , UK"
+21,7,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-06T23:28+01:00,"LEIPZIG , GERMANY"
+21,8,Processed at LEIPZIG - GERMANY,2025-02-07T00:34+01:00,"LEIPZIG , GERMANY"
+21,9,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-07T04:20+01:00,"LEIPZIG , GERMANY"
+21,10,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-07T06:28+01:00,"BRESCIA , ITALY"
+21,11,Processed at BRESCIA - ITALY,2025-02-07T06:42+01:00,"BRESCIA , ITALY"
+21,12,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-07T07:13+01:00,"BRESCIA , ITALY"
+21,13,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-07T08:10+01:00,"BERGAMO , ITALY"
+21,14,Shipment is out with courier for delivery,2025-02-07T10:18+01:00,"BERGAMO , ITALY"
+21,15,Delivered,2025-02-07T14:36+01:00,"GAZZANIGA, IT"
+11,1,Shipment picked up,2025-01-31T16:41+01:00,"BRATISLAVA , SLOVAKIA"
+11,2,Arrived at DHL Sort Facility  BRATISLAVA - SLOVAKIA,2025-01-31T19:15+01:00,"BRATISLAVA , SLOVAKIA"
+11,3,Processed at BRATISLAVA - SLOVAKIA,2025-01-31T20:43+01:00,"BRATISLAVA , SLOVAKIA"
+11,4,Shipment has departed from a DHL facility BRATISLAVA - SLOVAKIA,2025-01-31T22:58+01:00,"BRATISLAVA , SLOVAKIA"
+11,5,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-01T00:26+01:00,"LEIPZIG , GERMANY"
+11,6,Processed at LEIPZIG - GERMANY,2025-02-01T01:01+01:00,"LEIPZIG , GERMANY"
+11,7,Scheduled to depart on the next planned movement,2025-02-01T06:15+01:00,"LEIPZIG , GERMANY"
+11,8,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-03T01:28+01:00,"LEIPZIG , GERMANY"
+11,9,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-03T03:15+01:00,"BRESCIA , ITALY"
+11,10,Processed at BRESCIA - ITALY,2025-02-03T03:24+01:00,"BRESCIA , ITALY"
+11,11,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-03T04:44+01:00,"BRESCIA , ITALY"
+11,12,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-03T05:35+01:00,"BERGAMO , ITALY"
+11,13,Processed at BERGAMO - ITALY,2025-02-03T06:50+01:00,"BERGAMO , ITALY"
+11,14,Shipment is out with courier for delivery,2025-02-03T09:05+01:00,"BERGAMO , ITALY"
+11,15,Delivered,2025-02-03T11:24+01:00,"GAZZANIGA, IT"
+13,1,Shipment picked up,2025-02-04T18:33+01:00,"GDANSK , POLAND"
+13,2,Processed at GDANSK - POLAND,2025-02-04T21:34+01:00,"GDANSK , POLAND"
+13,3,Shipment has departed from a DHL facility GDANSK - POLAND,2025-02-04T22:24+01:00,"GDANSK , POLAND"
+13,4,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-05T00:20+01:00,"LEIPZIG , GERMANY"
+13,5,Processed at LEIPZIG - GERMANY,2025-02-05T00:44+01:00,"LEIPZIG , GERMANY"
+13,6,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-05T04:53+01:00,"LEIPZIG , GERMANY"
+13,7,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-05T06:28+01:00,"BRESCIA , ITALY"
+13,8,Processed at BRESCIA - ITALY,2025-02-05T06:39+01:00,"BRESCIA , ITALY"
+13,9,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-05T07:13+01:00,"BRESCIA , ITALY"
+13,10,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-05T08:12+01:00,"BERGAMO , ITALY"
+13,11,Processed at BERGAMO - ITALY,2025-02-05T08:42+01:00,"BERGAMO , ITALY"
+13,12,Shipment is out with courier for delivery,2025-02-05T09:05+01:00,"BERGAMO , ITALY"
+13,13,Delivered,2025-02-05T15:59+01:00,"GAZZANIGA, IT"
+14,1,Shipment picked up,2025-02-05T18:32+01:00,"GDANSK , POLAND"
+14,2,Processed at GDANSK - POLAND,2025-02-05T21:34+01:00,"GDANSK , POLAND"
+14,3,Shipment has departed from a DHL facility GDANSK - POLAND,2025-02-05T22:24+01:00,"GDANSK , POLAND"
+14,4,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-06T00:01+01:00,"LEIPZIG , GERMANY"
+14,5,Processed at LEIPZIG - GERMANY,2025-02-06T00:20+01:00,"LEIPZIG , GERMANY"
+14,6,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-06T04:31+01:00,"LEIPZIG , GERMANY"
+14,7,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-06T06:03+01:00,"BRESCIA , ITALY"
+14,8,Processed at BRESCIA - ITALY,2025-02-06T06:21+01:00,"BRESCIA , ITALY"
+14,9,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-06T07:12+01:00,"BRESCIA , ITALY"
+14,10,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-06T08:12+01:00,"BERGAMO , ITALY"
+14,11,Processed at BERGAMO - ITALY,2025-02-06T08:53+01:00,"BERGAMO , ITALY"
+14,12,Shipment is out with courier for delivery,2025-02-06T09:14+01:00,"BERGAMO , ITALY"
+14,13,Delivered,2025-02-06T11:47+01:00,"GAZZANIGA, IT"
+15,1,Shipment picked up,2025-02-03T18:27+01:00,"GDANSK , POLAND"
+15,2,Processed at GDANSK - POLAND,2025-02-03T21:33+01:00,"GDANSK , POLAND"
+15,3,Shipment has departed from a DHL facility GDANSK - POLAND,2025-02-03T22:11+01:00,"GDANSK , POLAND"
+15,4,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-04T00:15+01:00,"LEIPZIG , GERMANY"
+15,5,Processed at LEIPZIG - GERMANY,2025-02-04T00:35+01:00,"LEIPZIG , GERMANY"
+15,6,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-04T04:51+01:00,"LEIPZIG , GERMANY"
+15,7,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-04T06:48+01:00,"BRESCIA , ITALY"
+15,8,Processed at BRESCIA - ITALY,2025-02-04T07:17+01:00,"BRESCIA , ITALY"
+15,9,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-04T07:48+01:00,"BRESCIA , ITALY"
+15,10,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-04T08:50+01:00,"BERGAMO , ITALY"
+15,11,Processed at BERGAMO - ITALY,2025-02-04T09:02+01:00,"BERGAMO , ITALY"
+15,12,Shipment is out with courier for delivery,2025-02-04T09:09+01:00,"BERGAMO , ITALY"
+15,13,Delivered,2025-02-04T11:37+01:00,"GAZZANIGA, IT"
+18,1,Shipment information received,2025-01-30T09:30+00:00,"WARSAW , POLAND"
+18,2,Arrived at DHL Sort Facility  WARSAW - POLAND,2025-01-30T19:24+01:00,"WARSAW , POLAND"
+18,3,Processed at WARSAW - POLAND,2025-01-30T21:23+01:00,"WARSAW , POLAND"
+18,4,Shipment has departed from a DHL facility WARSAW - POLAND,2025-01-30T22:08+01:00,"WARSAW , POLAND"
+18,5,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-01-30T23:42+01:00,"LEIPZIG , GERMANY"
+18,6,Processed at LEIPZIG - GERMANY,2025-01-31T01:17+01:00,"LEIPZIG , GERMANY"
+18,7,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-01-31T04:22+01:00,"LEIPZIG , GERMANY"
+18,8,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-01-31T05:52+01:00,"BRESCIA , ITALY"
+18,9,Processed at BRESCIA - ITALY,2025-01-31T06:26+01:00,"BRESCIA , ITALY"
+18,10,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-01-31T07:06+01:00,"BRESCIA , ITALY"
+18,11,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-01-31T08:03+01:00,"BERGAMO , ITALY"
+18,12,Arrived at DHL Sort Facility  BERGAMO - ITALY,2025-01-31T08:07+01:00,"BERGAMO , ITALY"
+18,13,Processed at BERGAMO - ITALY,2025-01-31T08:32+01:00,"BERGAMO , ITALY"
+18,14,Shipment is out with courier for delivery,2025-01-31T09:19+01:00,"BERGAMO , ITALY"
+18,15,Delivered,2025-01-31T11:32+01:00,"GAZZANIGA, IT"
+23,1,Shipment picked up,2025-02-14T16:21+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+23,2,"Arrived at DHL Sort Facility  SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-02-14T21:46+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+23,3,"Processed at SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-02-14T22:20+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+23,4,"Shipment has departed from a DHL facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-02-14T23:29+08:00,"SHENZHEN , CHINA, PEOPLES REPUBLIC"
+23,5,"Arrived at DHL Sort Facility  HONG KONG - HONG KONG SAR, CHINA",2025-02-15T01:15+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+23,6,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-02-15T05:49+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+23,7,"Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",2025-02-15T06:37+08:00,"HONG KONG , HONG KONG SAR, CHINA"
+23,8,Arrived at DHL Sort Facility  FRANKFURT - GERMANY,2025-02-15T18:58+01:00,"FRANKFURT , GERMANY"
+23,9,Shipment has departed from a DHL facility FRANKFURT - GERMANY,2025-02-15T22:33+01:00,"FRANKFURT , GERMANY"
+23,10,Shipment is in transit to destination,2025-02-15T22:33+01:00,"FRANKFURT , GERMANY"
+23,11,Arrived at DHL Sort Facility  LEIPZIG - GERMANY,2025-02-16T15:32+01:00,"LEIPZIG , GERMANY"
+23,12,Processed at LEIPZIG - GERMANY,2025-02-16T15:58+01:00,"LEIPZIG , GERMANY"
+23,13,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-02-17T01:11+01:00,"LEIPZIG , GERMANY"
+23,14,Arrived at DHL Sort Facility  BRESCIA - ITALY,2025-02-17T03:19+01:00,"BRESCIA , ITALY"
+23,15,Processed at BRESCIA - ITALY,2025-02-17T03:29+01:00,"BRESCIA , ITALY"
+23,16,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-02-17T04:11+01:00,"BRESCIA , ITALY"
+23,17,Arrived at DHL Delivery Facility  BERGAMO - ITALY,2025-02-17T05:19+01:00,"BERGAMO , ITALY"
+23,18,Shipment is out with courier for delivery,2025-02-17T09:11+01:00,"BERGAMO , ITALY"
+23,19,Delivered,2025-02-17T11:36+01:00,"GAZZANIGA, IT"
+4,1,Arrived at Facility,2025-01-13T12:08-05:00,"Thief River Falls, MN, US"
+4,2,Departed from Facility,2025-01-13T13:10-05:00,"Thief River Falls, MN, US"
+4,3,Departed from Facility,2025-01-13T22:08-05:00,"Fargo, ND, US"
+4,4,Arrived at Facility,2025-01-14T01:09-05:00,"Louisville, KY, US"
+4,5,Export Scan,2025-01-14T02:39-05:00,"Louisville, KY, US"
+4,6,Departed from Facility,2025-01-14T06:07-05:00,"Louisville, KY, US"
+4,7,Arrived at Facility,2025-01-14T19:46+01:00,"Koeln, DE"
+4,8,Import Scan,2025-01-14T23:21+01:00,"Koeln, DE"
+4,9,Arrived at Facility,2025-01-15T03:54+01:00,"Seriate, IT"
+4,10,Departed from Facility,2025-01-15T05:25+01:00,"Seriate, IT"
+4,11,Arrived at Facility,2025-01-15T05:30+01:00,"Treviolo, IT"
+4,12,Out for Delivery,2025-01-15T07:02+01:00,"Treviolo, IT"
+4,13,DELIVERED,2025-01-15T10:47+01:00,"GAZZANIGA, IT"
+6,1,Arrivato nel centro,2025-01-13T19:15+00:00,"Leeds, United Kingdom"
+6,2,Partito dal centro,2025-01-13T19:45+00:00,"Leeds, United Kingdom"
+6,3,Scansione esportazione,2025-01-13T21:21+00:00,"Castle Donington, United Kingdom"
+6,4,Partito dal centro,2025-01-13T22:25+00:00,"Castle Donington, United Kingdom"
+6,5,Arrivato nel centro,2025-01-13T23:37+01:00,"Koeln, Germany"
+6,6,Scansione importazione,2025-01-14T00:59+01:00,"Koeln, Germany"
+6,7,Partito dal centro,2025-01-14T03:30+01:00,"Koeln, Germany"
+6,8,Arrivato nel centro,2025-01-14T04:20+01:00,"Seriate, Italy"
+6,9,Partito dal centro,2025-01-14T05:44+01:00,"Seriate, Italy"
+6,10,Arrivato nel centro,2025-01-14T05:48+01:00,"Treviolo, Italy"
+6,11,In consegna,2025-01-14T06:09+01:00,"Treviolo, Italy"
+6,12,CONSEGNATO ,2025-01-14T09:42+01:00,"GAZZANIGA, IT"
+10,1,Arrivato nel centro,2025-01-21T18:46+00:00,"Leeds, United Kingdom"
+10,2,Partito dal centro,2025-01-21T19:45+00:00,"Leeds, United Kingdom"
+10,3,Il ritardo &#232; causato dalla mancanza di dati di spedizione. Stiamo aspettando che il mittente carichi i dati elettronici.,2025-01-22T02:17+00:00,"Castle Donington, United Kingdom"
+10,4,Scansione esportazione,2025-01-22T19:55+00:00,"Castle Donington, United Kingdom"
+10,5,Partito dal centro,2025-01-22T21:48+00:00,"Castle Donington, United Kingdom"
+10,6,Arrivato nel centro,2025-01-22T23:10+01:00,"Koeln, Germany"
+10,7,Scansione importazione,2025-01-23T00:18+01:00,"Koeln, Germany"
+10,8,Partito dal centro,2025-01-23T01:40+01:00,"Koeln, Germany"
+10,9,Arrivato nel centro,2025-01-23T02:55+01:00,"Seriate, Italy"
+10,10,Partito dal centro,2025-01-23T04:57+01:00,"Seriate, Italy"
+10,11,Arrivato nel centro,2025-01-23T04:59+01:00,"Treviolo, Italy"
+10,12,In consegna,2025-01-23T07:07+01:00,"Treviolo, Italy"
+10,13,CONSEGNATO ,2025-01-23T09:59+01:00,"GAZZANIGA, IT"
+20,1,Arrivato nel centro,2025-01-31T19:03+00:00,"Leeds, United Kingdom"
+20,2,Partito dal centro,2025-01-31T19:45+00:00,"Leeds, United Kingdom"
+20,3,Scansione esportazione,2025-01-31T21:01+00:00,"Castle Donington, United Kingdom"
+20,4,Partito dal centro,2025-01-31T21:48+00:00,"Castle Donington, United Kingdom"
+20,5,Arrivato nel centro,2025-01-31T23:07+01:00,"Koeln, Germany"
+20,6,Scansione importazione,2025-02-01T00:03+01:00,"Koeln, Germany"
+20,7,Partito dal centro,2025-02-02T23:45+01:00,"Koeln, Germany"
+20,8,Arrivato nel centro,2025-02-03T00:57+01:00,"Seriate, Italy"
+20,9,Partito dal centro,2025-02-03T02:56+01:00,"Seriate, Italy"
+20,10,Arrivato nel centro,2025-02-03T05:00+01:00,"Treviolo, Italy"
+20,11,In consegna,2025-02-03T06:02+01:00,"Treviolo, Italy"
+20,12,CONSEGNATO ,2025-02-03T10:50+01:00,"GAZZANIGA, IT"
+24,1,Arrivato nel centro,2025-02-12T18:35+00:00,"Leeds, United Kingdom"
+24,2,Scansione esportazione,2025-02-12T20:47+00:00,"Castle Donington, United Kingdom"
+24,3,Partito dal centro,2025-02-12T22:03+00:00,"Castle Donington, United Kingdom"
+24,4,Arrivato nel centro,2025-02-12T23:30+01:00,"Koeln, Germany"
+24,5,Scansione importazione,2025-02-13T00:12+01:00,"Koeln, Germany"
+24,6,Partito dal centro,2025-02-13T03:30+01:00,"Koeln, Germany"
+24,7,Arrivato nel centro,2025-02-13T04:11+01:00,"Seriate, Italy"
+24,8,Partito dal centro,2025-02-13T05:17+01:00,"Seriate, Italy"
+24,9,Arrivato nel centro,2025-02-13T05:21+01:00,"Treviolo, Italy"
+24,10,In consegna,2025-02-13T05:40+01:00,"Treviolo, Italy"
+24,11,CONSEGNATO ,2025-02-13T09:58+01:00,"GAZZANIGA, IT"
+19,1,Shipment picked up,2025-02-10T17:29+07:00,HO CHI MINH - VIETNAM
+19,2,Arrived at DHL Sort Facility,2025-02-10T20:30+07:00,HO CHI MINH - VIETNAM
+19,3,Processed at HO CHI MINH - VIETNAM,2025-02-10T21:53+07:00,HO CHI MINH - VIETNAM
+19,4,Shipment has departed from a DHL facility,2025-02-10T21:55+07:00,HO CHI MINH - VIETNAM
+19,5,Arrived at DHL Sort Facility,2025-02-11T03:48+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+19,6,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-02-11T06:24+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+19,7,Shipment has departed from a DHL facility,2025-02-11T07:41+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+19,8,Shipment is on hold,2025-02-11T19:04+01:00,COLOGNE - GERMANY
+19,9,Arrived at DHL Sort Facility,2025-02-11T20:26+01:00,COLOGNE - GERMANY
+19,10,Shipment is on hold,2025-02-12T17:55+01:00,COLOGNE - GERMANY
+19,11,Processed at COLOGNE - GERMANY,2025-02-12T17:57+01:00,COLOGNE - GERMANY
+19,12,Shipment has departed from a DHL facility,2025-02-13T00:49+01:00,COLOGNE - GERMANY
+19,13,Arrived at DHL Sort Facility,2025-02-13T02:30+01:00,LEIPZIG - GERMANY
+19,14,Processed at LEIPZIG - GERMANY,2025-02-13T03:59+01:00,LEIPZIG - GERMANY
+19,15,Shipment has departed from a DHL facility,2025-02-13T05:48+01:00,LEIPZIG - GERMANY
+19,16,Arrived at DHL Sort Facility,2025-02-13T07:49+01:00,PARIS - FRANCE
+19,17,Processed at PARIS - FRANCE,2025-02-13T20:27+01:00,PARIS - FRANCE
+19,18,Shipment has departed from a DHL facility,2025-02-13T23:58+01:00,PARIS - FRANCE
+19,19,Arrived at DHL Sort Facility,2025-02-14T03:05+01:00,LEIPZIG - GERMANY
+19,20,Processed at LEIPZIG - GERMANY,2025-02-14T21:55+01:00,LEIPZIG - GERMANY
+19,21,Scheduled to depart on the next planned movement,2025-02-15T07:23+01:00,LEIPZIG - GERMANY
+19,22,Shipment has departed from a DHL facility,2025-02-17T02:11+01:00,LEIPZIG - GERMANY
+19,23,Arrived at DHL Sort Facility,2025-02-17T04:37+01:00,BRESCIA - ITALY
+19,24,Processed at BRESCIA - ITALY,2025-02-17T05:00+01:00,BRESCIA - ITALY
+19,25,Shipment has departed from a DHL facility,2025-02-17T06:11+01:00,BRESCIA - ITALY
+19,26,Arrived at DHL Delivery Facility,2025-02-17T07:14+01:00,BERGAMO - ITALY
+19,27,Delivered,2025-02-17T12:36+01:00,"GAZZANIGA, IT"
+9,1,Arrived at Facility,2025-01-21T10:43-05:00,"Thief River Falls, MN, US"
+9,2,Departed from Facility,2025-01-21T13:10-05:00,"Thief River Falls, MN, US"
+9,3,Departed from Facility,2025-01-21T21:26-05:00,"Fargo, ND, US"
+9,4,Arrived at Facility,2025-01-22T00:28-05:00,"Louisville, KY, US"
+9,5,Export Scan,2025-01-22T01:16-05:00,"Louisville, KY, US"
+9,6,Departed from Facility,2025-01-22T05:34-05:00,"Louisville, KY, US"
+9,7,Arrived at Facility,2025-01-22T18:40+01:00,"Koeln, DE"
+9,8,Import Scan,2025-01-22T23:25+01:00,"Koeln, DE"
+9,9,Departed from Facility,2025-01-23T02:40+01:00,"Koeln, DE"
+9,10,Arrived at Facility,2025-01-23T03:55+01:00,"Seriate, IT"
+9,11,Departed from Facility,2025-01-23T05:57+01:00,"Seriate, IT"
+9,12,Arrived at Facility,2025-01-23T05:59+01:00,"Treviolo, IT"
+9,13,Out For Delivery,2025-01-23T07:12+01:00,"Treviolo, IT"
+9,14,Delivered,2025-01-23T10:59+01:00,"Gazzaniga, IT"
+7,1,Arrived at Facility,2025-01-16T08:44-05:00,"Thief River Falls, MN, US"
+7,2,Departed from Facility,2025-01-16T13:09-05:00,"Thief River Falls, MN, US"
+7,3,Departed from Facility,2025-01-16T21:03-05:00,"Fargo, ND, US"
+7,4,Arrived at Facility,2025-01-17T00:10-05:00,"Louisville, KY, US"
+7,5,Departed from Facility,2025-01-17T04:19-05:00,"Louisville, KY, US"
+7,6,Arrived at Facility,2025-01-17T18:07+01:00,"Koeln, DE"
+7,7,Import Scan,2025-01-17T23:29+01:00,"Koeln, DE"
+7,8,Departed from Facility,2025-01-20T01:00+01:00,"Koeln, DE"
+7,9,Arrived at Facility,2025-01-20T02:05+01:00,"Seriate, IT"
+7,10,Departed from Facility,2025-01-20T03:43+01:00,"Seriate, IT"
+7,11,Arrived at Facility,2025-01-20T05:20+01:00,"Treviolo, IT"
+7,12,Out For Delivery,2025-01-20T05:44+01:00,"Treviolo, IT"
+7,13,Delivered,2025-01-20T10:23+01:00,"GAZZANIGA, IT"
+3,1,Arrived at Facility,2025-01-10T19:10-05:00,"Thief River Falls, MN, US"
+3,2,Departed from Facility,2025-01-10T22:00-05:00,"Thief River Falls, MN, US"
+3,3,Arrived at Facility,2025-01-11T03:18-05:00,"Louisville, KY, US"
+3,4,Arrived at Facility,2025-01-14T01:09-05:00,"Louisville, KY, US"
+3,5,Departed from Facility,2025-01-14T04:23-05:00,"Louisville, KY, US"
+3,6,Arrived at Facility,2025-01-14T18:09+01:00,"Koeln, DE"
+3,7,Import Scan,2025-01-14T23:32+01:00,"Koeln, DE"
+3,8,Arrived at Facility,2025-01-15T03:54+01:00,"Seriate, IT"
+3,9,Departed from Facility,2025-01-15T05:25+01:00,"Seriate, IT"
+3,10,Arrived at Facility,2025-01-15T05:30+01:00,"Treviolo, IT"
+3,11,Out For Delivery,2025-01-15T05:48+01:00,"Treviolo, IT"
+3,12,Delivered,2025-01-15T10:47+01:00,"GAZZANIGA, IT"
+2,1,Arrived at Facility,2025-01-09T08:02+00:00,"Leeds, GB"
+2,2,Departed from Facility,2025-01-09T18:30+00:00,"Leeds, GB"
+2,3,Export Scan,2025-01-09T20:38+00:00,"Castle Donington, GB"
+2,4,Departed from Facility,2025-01-09T21:57+00:00,"Castle Donington, GB"
+2,5,Arrived at Facility,2025-01-10T00:09+01:00,"Koeln, DE"
+2,6,Import Scan,2025-01-10T02:08+01:00,"Koeln, DE"
+2,7,Departed from Facility,2025-01-10T04:30+01:00,"Koeln, DE"
+2,8,Arrived at Facility,2025-01-10T05:26+01:00,"Seriate, IT"
+2,9,Departed from Facility,2025-01-10T06:55+01:00,"Seriate, IT"
+2,10,Arrived at Facility,2025-01-10T07:00+01:00,"Treviolo, IT"
+2,11,Processing at UPS Facility,2025-01-10T07:19+01:00,"Treviolo, IT"
+2,12,Your package is in transit. We're updating plans to schedule your delivery.,2025-01-10T10:12+01:00,"Treviolo, IT"
+2,13,Processing at UPS Facility,2025-01-10T19:26+01:00,"Treviolo, IT"
+2,14,Out For Delivery,2025-01-13T05:51+01:00,"Treviolo, IT"
+2,15,Delivered,2025-01-13T10:19+01:00,"GAZZANIGA, IT"
+34,1,Shipment picked up,2025-03-19T21:43+08:00,"Shenzhen - China, Peoples Republic"
+34,2,Processed at,2025-03-19T23:26+08:00,"Shenzhen - China, Peoples Republic"
+34,3,Shipment has departed from a DHL facility,2025-03-20T00:49+08:00,"Shenzhen - China, Peoples Republic"
+34,4,Arrived at DHL Sort Facility,2025-03-20T02:04+08:00,"Shenzhen - China, Peoples Republic"
+34,5,Processed at,2025-03-20T17:25+08:00,"Shenzhen - China, Peoples Republic"
+34,6,Shipment has departed from a DHL facility,2025-03-20T18:22+08:00,"Shenzhen - China, Peoples Republic"
+34,7,Arrived at DHL Sort Facility,2025-03-20T21:45+08:00,"Hong Kong - Hong Kong SAR, China"
+34,8,Processed at,2025-03-21T07:22+08:00,"Hong Kong - Hong Kong SAR, China"
+34,9,Shipment has departed from a DHL facility,2025-03-21T09:08+08:00,"Hong Kong - Hong Kong SAR, China"
+34,10,Arrived at DHL Sort Facility,2025-03-21T13:24+03:00,Bahrain - Bahrain
+34,11,Shipment is on hold,2025-03-21T13:25+03:00,Bahrain - Bahrain
+34,12,Processed at,2025-03-22T03:47+03:00,Bahrain - Bahrain
+34,13,Shipment has departed from a DHL facility,2025-03-22T04:54+03:00,Bahrain - Bahrain
+34,14,Arrived at DHL Sort Facility,2025-03-22T14:40+01:00,Leipzig - Germany
+34,15,Processed at,2025-03-23T16:02+01:00,Leipzig - Germany
+34,16,Shipment has departed from a DHL facility,2025-03-23T23:55+01:00,Leipzig - Germany
+34,17,Arrived at DHL Sort Facility,2025-03-24T02:12+01:00,Brescia - Italy
+34,18,Processed at,2025-03-24T02:26+01:00,Brescia - Italy
+34,19,Shipment has departed from a DHL facility,2025-03-24T04:23+01:00,Brescia - Italy
+34,20,Arrived at DHL Delivery Facility,2025-03-24T05:15+01:00,Bergamo - Italy
+34,21,Processed at,2025-03-24T07:36+01:00,Bergamo - Italy
+34,22,Shipment is out with courier for delivery,2025-03-24T09:24+01:00,Bergamo - Italy
+34,23,Delivered,2025-03-24T11:41+01:00,"Gazzaniga, IT"
+33,1,Shipment picked up,2025-03-14T12:40-04:00,"Minneapolis, MN, US"
+33,2,Processed at MINNEAPOLIS - USA,2025-03-14T21:17-04:00,"Minneapolis, MN, US"
+33,3,Shipment has departed from a DHL facility,2025-03-14T21:17-04:00,"Minneapolis, MN, US"
+33,4,Arrived at DHL Sort Facility,2025-03-15T00:58-04:00,"Cincinnati Hub, OH, US"
+33,5,Processed at CINCINNATI HUB - USA,2025-03-15T06:44-04:00,"Cincinnati Hub, OH, US"
+33,6,Shipment has departed from a DHL facility,2025-03-15T11:56-04:00,"Cincinnati Hub, OH, US"
+33,7,Arrived at DHL Sort Facility,2025-03-16T13:35+01:00,"Leipzig, DE"
+33,8,Processed at LEIPZIG - GERMANY,2025-03-16T16:44+01:00,"Leipzig, DE"
+33,9,Shipment has departed from a DHL facility,2025-03-17T00:19+01:00,"Leipzig, DE"
+33,10,Arrived at DHL Sort Facility,2025-03-17T01:46+01:00,"Brescia, IT"
+33,11,Processed at BRESCIA - ITALY,2025-03-17T03:15+01:00,"Brescia, IT"
+33,12,Shipment has departed from a DHL facility,2025-03-17T04:56+01:00,"Brescia, IT"
+33,13,Arrived at DHL Delivery Facility,2025-03-17T06:08+01:00,"Bergamo, IT"
+33,14,Processed at BERGAMO - ITALY,2025-03-17T06:41+01:00,"Bergamo, IT"
+33,15,Shipment is out with courier for delivery,2025-03-17T09:17+01:00,"Bergamo, IT"
+33,16,Delivered,2025-03-17T11:46+01:00,"GAZZANIGA, IT"
+27,1,Shipment picked up,2025-02-25T16:26+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,2,Processed at SHENZHEN,2025-02-26T03:06+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,3,Shipment has departed from a DHL facility,2025-02-26T03:33+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,4,Arrived at DHL Sort Facility,2025-02-26T04:02+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,5,Processed at SHENZHEN,2025-02-26T15:17+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,6,Shipment has departed from a DHL facility,2025-02-26T18:14+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+27,7,Arrived at DHL Sort Facility,2025-02-26T20:31+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+27,8,Processed at HONG KONG,2025-02-27T05:56+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+27,9,Shipment has departed from a DHL facility,2025-02-27T06:13+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+27,10,Arrived at DHL Sort Facility,2025-02-27T10:54+03:00,BAHRAIN - BAHRAIN
+27,11,Processed at BAHRAIN,2025-02-27T16:36+03:00,BAHRAIN - BAHRAIN
+27,12,Shipment has departed from a DHL facility,2025-02-27T16:56+03:00,BAHRAIN - BAHRAIN
+27,13,Arrived at DHL Sort Facility,2025-02-27T22:02+01:00,MILAN - MALPENSA - ITALY
+27,14,Processed at MILAN - MALPENSA,2025-02-28T01:07+01:00,MILAN - MALPENSA - ITALY
+27,15,Shipment has departed from a DHL facility,2025-02-28T02:28+01:00,MILAN - MALPENSA - ITALY
+27,16,Arrived at DHL Sort Facility,2025-02-28T04:59+01:00,BRESCIA - ITALY
+27,17,Processed at BRESCIA,2025-02-28T05:34+01:00,BRESCIA - ITALY
+27,18,Shipment has departed from a DHL facility,2025-02-28T07:15+01:00,BRESCIA - ITALY
+27,19,Arrived at DHL Delivery Facility,2025-02-28T08:13+01:00,BERGAMO - ITALY
+27,20,Processed at BERGAMO,2025-02-28T08:35+01:00,BERGAMO - ITALY
+27,21,Shipment is out with courier for delivery,2025-02-28T09:55+01:00,BERGAMO - ITALY
+27,22,Delivered,2025-02-28T14:04+01:00,"GAZZANIGA, IT"
+37,1,Shipment picked up,2025-03-20T16:51+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+37,2,"Arrived at DHL Sort Facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-03-20T21:29+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+37,3,"Processed at SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-03-20T21:52+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+37,4,"Shipment has departed from a DHL facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-03-20T22:30+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+37,5,"Arrived at DHL Sort Facility HONG KONG - HONG KONG SAR, CHINA",2025-03-21T01:30+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+37,6,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-03-21T07:22+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+37,7,"Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",2025-03-21T09:08+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+37,8,Arrived at DHL Sort Facility BAHRAIN - BAHRAIN,2025-03-22T07:37+03:00,BAHRAIN - BAHRAIN
+37,9,Shipment is on hold,2025-03-22T07:40+03:00,BAHRAIN - BAHRAIN
+37,10,Processed at BAHRAIN - BAHRAIN,2025-03-22T13:52+03:00,BAHRAIN - BAHRAIN
+37,11,Shipment has departed from a DHL facility BAHRAIN - BAHRAIN,2025-03-22T14:43+03:00,BAHRAIN - BAHRAIN
+37,12,Arrived at DHL Sort Facility LEIPZIG - GERMANY,2025-03-23T14:09+01:00,LEIPZIG - GERMANY
+37,13,Processed at LEIPZIG - GERMANY,2025-03-23T15:11+01:00,LEIPZIG - GERMANY
+37,14,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-03-23T23:55+01:00,LEIPZIG - GERMANY
+37,15,Arrived at DHL Sort Facility BRESCIA - ITALY,2025-03-24T02:12+01:00,BRESCIA - ITALY
+37,16,Processed at BRESCIA - ITALY,2025-03-24T02:47+01:00,BRESCIA - ITALY
+37,17,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-03-24T04:23+01:00,BRESCIA - ITALY
+37,18,Arrived at DHL Delivery Facility BERGAMO - ITALY,2025-03-24T05:15+01:00,BERGAMO - ITALY
+37,19,Processed at BERGAMO - ITALY,2025-03-24T07:03+01:00,BERGAMO - ITALY
+37,20,Shipment is out with courier for delivery,2025-03-24T09:24+01:00,BERGAMO - ITALY
+37,21,Delivered,2025-03-24T11:41+01:00,"GAZZANIGA, ITALY"
+38,1,Shipment picked up,2025-04-02T15:30+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+38,2,"Arrived at DHL Sort Facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-02T21:26+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+38,3,"Processed at SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-02T21:38+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+38,4,"Shipment has departed from a DHL facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-02T22:49+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+38,5,"Arrived at DHL Sort Facility HONG KONG - HONG KONG SAR, CHINA",2025-04-03T00:48+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+38,6,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-04-03T07:27+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+38,7,"Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",2025-04-03T07:56+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+38,8,Shipment is in transit to destination,2025-04-03T10:41+03:00,BAHRAIN - BAHRAIN
+38,9,Shipment has departed from a DHL facility BAHRAIN - BAHRAIN,2025-04-03T12:13+03:00,BAHRAIN - BAHRAIN
+38,10,Arrived at DHL Sort Facility LEIPZIG - GERMANY,2025-04-03T18:03+02:00,LEIPZIG - GERMANY
+38,11,Processed at LEIPZIG - GERMANY,2025-04-03T21:58+02:00,LEIPZIG - GERMANY
+38,12,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-04-04T04:57+02:00,LEIPZIG - GERMANY
+38,13,Arrived at DHL Sort Facility BRESCIA - ITALY,2025-04-04T06:14+02:00,BRESCIA - ITALY
+38,14,Processed at BRESCIA - ITALY,2025-04-04T06:30+02:00,BRESCIA - ITALY
+38,15,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-04-04T07:14+02:00,BRESCIA - ITALY
+38,16,Arrived at DHL Delivery Facility BERGAMO - ITALY,2025-04-04T08:08+02:00,BERGAMO - ITALY
+38,17,Processed at BERGAMO - ITALY,2025-04-04T08:41+02:00,BERGAMO - ITALY
+38,18,Shipment is out with courier for delivery,2025-04-04T09:24+02:00,BERGAMO - ITALY
+38,19,Delivered,2025-04-04T11:18+02:00,"GAZZANIGA, ITALY"
+31,1,Shipment picked up,2025-03-12T14:11-04:00,BOCA RATON - Florida - USA
+31,2,Processed at BOCA RATON - USA,2025-03-12T21:05-04:00,BOCA RATON - Florida - USA
+31,3,Shipment has departed from a DHL facility BOCA RATON - USA,2025-03-12T21:06-04:00,BOCA RATON - Florida - USA
+31,4,Arrived at DHL Sort Facility MIAMI GATEWAY - USA,2025-03-12T22:03-04:00,MIAMI GATEWAY - Florida - USA
+31,5,Shipment is in transit to destination,2025-03-12T22:19-04:00,MIAMI GATEWAY - Florida - USA
+31,6,Shipment has departed from a DHL facility MIAMI GATEWAY - USA,2025-03-12T23:43-04:00,MIAMI GATEWAY - Florida - USA
+31,7,Arrived at DHL Sort Facility CINCINNATI HUB - USA,2025-03-13T02:30-04:00,CINCINNATI HUB - Ohio - USA
+31,8,Processed at CINCINNATI HUB - USA,2025-03-13T05:05-04:00,CINCINNATI HUB - Ohio - USA
+31,9,Shipment has departed from a DHL facility CINCINNATI HUB - USA,2025-03-13T08:09-04:00,CINCINNATI HUB - Ohio - USA
+31,10,Arrived at DHL Sort Facility LEIPZIG - GERMANY,2025-03-13T22:24+01:00,LEIPZIG - GERMANY
+31,11,Processed at LEIPZIG - GERMANY,2025-03-13T22:47+01:00,LEIPZIG - GERMANY
+31,12,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-03-14T04:26+01:00,LEIPZIG - GERMANY
+31,13,Arrived at DHL Sort Facility BRESCIA - ITALY,2025-03-14T06:26+01:00,BRESCIA - ITALY
+31,14,Processed at BRESCIA - ITALY,2025-03-14T06:50+01:00,BRESCIA - ITALY
+31,15,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-03-14T07:20+01:00,BRESCIA - ITALY
+31,16,Arrived at DHL Delivery Facility BERGAMO - ITALY,2025-03-14T08:05+01:00,BERGAMO - ITALY
+31,17,Processed at BERGAMO - ITALY,2025-03-14T08:11+01:00,BERGAMO - ITALY
+31,18,Scheduled to depart on the next planned movement,2025-03-14T09:41+01:00,BERGAMO - ITALY
+31,19,Shipment is out with courier for delivery,2025-03-14T11:57+01:00,BERGAMO - ITALY
+31,20,Delivered,2025-03-14T14:01+01:00,"GAZZANIGA, IT"
+28,1,Arrived at Facility,2025-02-28T09:51-05:00,"Thief River Falls, MN, US"
+28,2,Departed from Facility,2025-02-28T13:18-05:00,"Thief River Falls, MN, US"
+28,3,Departed from Facility,2025-02-28T20:57-05:00,"Fargo, ND, US"
+28,4,Arrived at Facility,2025-02-28T23:47-05:00,"Louisville, KY, US"
+28,5,Departed from Facility,2025-03-01T13:02-05:00,"Louisville, KY, US"
+28,6,Arrived at Facility,2025-03-02T02:32+01:00,"Koeln, DE"
+28,7,Import Scan,2025-03-02T19:18+01:00,"Koeln, DE"
+28,8,Departed from Facility,2025-03-03T00:45+01:00,"Koeln, DE"
+28,9,Arrived at Facility,2025-03-03T01:58+01:00,"Seriate, IT"
+28,10,Departed from Facility,2025-03-03T03:40+01:00,"Seriate, IT"
+28,11,Arrived at Facility,2025-03-03T05:45+01:00,"Treviolo, IT"
+28,12,Out For Delivery,2025-03-03T06:35+01:00,"Treviolo, IT"
+28,13,Delivered,2025-03-03T11:03+01:00,"GAZZANIGA, IT"
+29,1,Arrived at Facility,2025-03-03T06:47-05:00,"Thief River Falls, MN, US"
+29,2,Departed from Facility,2025-03-03T13:18-05:00,"Thief River Falls, MN, US"
+29,3,Departed from Facility,2025-03-03T20:57-05:00,"Fargo, ND, US"
+29,4,Arrived at Facility,2025-03-04T00:00-05:00,"Louisville, KY, US"
+29,5,Export Scan,2025-03-04T01:31-05:00,"Louisville, KY, US"
+29,6,Departed from Facility,2025-03-04T05:23-05:00,"Louisville, KY, US"
+29,7,Arrived at Facility,2025-03-04T18:54+01:00,"Koeln, DE"
+29,8,Import Scan,2025-03-04T23:27+01:00,"Koeln, DE"
+29,9,Warehouse Scan,2025-03-05T03:13+01:00,"Koeln, DE"
+29,10,Import Scan,2025-03-05T22:47+01:00,"Koeln, DE"
+29,11,Departed from Facility,2025-03-06T02:40+01:00,"Koeln, DE"
+29,12,Arrived at Facility,2025-03-06T03:54+01:00,"Seriate, IT"
+29,13,Departed from Facility,2025-03-06T05:32+01:00,"Seriate, IT"
+29,14,Arrived at Facility,2025-03-06T05:36+01:00,"Treviolo, IT"
+29,15,Out For Delivery,2025-03-06T06:20+01:00,"Treviolo, IT"
+29,16,Delivered,2025-03-06T10:29+01:00,"GAZZANIGA, IT"
+35,1,Arrived at Facility,2025-03-14T14:15-04:00,"Thief River Falls, MN, US"
+35,2,Departed from Facility,2025-03-14T16:27-04:00,"Thief River Falls, MN, US"
+35,3,Export Scan,2025-03-15T00:53-04:00,"Louisville, KY, US"
+35,4,Departed from Facility,2025-03-15T16:57-04:00,"Louisville, KY, US"
+35,5,Arrived at Facility,2025-03-16T05:57+01:00,"Koeln, DE"
+35,6,Import Scan,2025-03-16T19:12+01:00,"Koeln, DE"
+35,7,Departed from Facility,2025-03-17T00:48+01:00,"Koeln, DE"
+35,8,Departed from Facility,2025-03-17T01:00+01:00,"Koeln, DE"
+35,9,Arrived at Facility,2025-03-17T02:09+01:00,"Seriate, IT"
+35,10,Departed from Facility,2025-03-17T03:57+01:00,"Seriate, IT"
+35,11,Arrived at Facility,2025-03-17T06:00+01:00,"Treviolo, IT"
+35,12,Out For Delivery,2025-03-17T07:01+01:00,"Treviolo, IT"
+35,13,Delivered,2025-03-17T10:15+01:00,"GAZZANIGA, IT"
+36,1,Arrived at Facility,2025-03-17T12:31-04:00,"Thief River Falls, MN, US"
+36,2,Departed from Facility,2025-03-17T13:18-04:00,"Thief River Falls, MN, US"
+36,3,Departed from Facility,2025-03-17T21:23-04:00,"Fargo, ND, US"
+36,4,Arrived at Facility,2025-03-18T00:18-04:00,"Louisville, KY, US"
+36,5,Export Scan,2025-03-18T01:35-04:00,"Louisville, KY, US"
+36,6,Departed from Facility,2025-03-18T06:09-04:00,"Louisville, KY, US"
+36,7,Arrived at Facility,2025-03-18T18:49+01:00,"Koeln, DE"
+36,8,Import Scan,2025-03-18T23:13+01:00,"Koeln, DE"
+36,9,Departed from Facility,2025-03-19T02:42+01:00,"Koeln, DE"
+36,10,Arrived at Facility,2025-03-19T04:05+01:00,"Seriate, IT"
+36,11,Departed from Facility,2025-03-19T05:49+01:00,"Seriate, IT"
+36,12,Arrived at Facility,2025-03-19T05:50+01:00,"Treviolo, IT"
+36,13,Out For Delivery,2025-03-19T06:36+01:00,"Treviolo, IT"
+36,14,Delivered,2025-03-19T10:11+01:00,"Gazzaniga, IT"
+25,1,Picked up,2025-02-21T18:14+08:00,"DONGGUAN, CN"
+25,2,Left FedEx origin facility,2025-02-21T20:43+08:00,"DONGGUAN, CN"
+25,3,On the way,2025-02-21T23:42+08:00,"GUANGZHOU, CN"
+25,4,International shipment release - Export,2025-02-21T23:43+08:00,"GUANGZHOU, CN"
+25,5,Arrived at FedEx hub,2025-02-21T23:43+08:00,"GUANGZHOU, CN"
+25,6,On the way,2025-02-21T23:53+08:00,"GUANGZHOU, CN"
+25,7,Departed FedEx hub,2025-02-22T06:20+08:00,"GUANGZHOU, CN"
+25,8,On the way,2025-02-22T06:27+08:00,"GUANGZHOU, CN"
+25,9,On the way,2025-02-22T14:36+03:00,"ISTANBUL, TR"
+25,10,On the way,2025-02-22T15:09+03:00,"ISTANBUL, TR"
+25,11,Arrived at FedEx hub,2025-02-22T15:43+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+25,12,On the way,2025-02-22T17:45+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+25,13,On the way,2025-02-22T21:33+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+25,14,Departed FedEx hub,2025-02-23T00:17+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+25,15,Arrived at FedEx hub,2025-02-23T13:55+01:00,"LONATE POZZOLO, IT"
+25,16,International shipment release - Import,2025-02-23T14:46+01:00,"LONATE POZZOLO, IT"
+25,17,International shipment release - Import,2025-02-23T16:03+01:00,"LONATE POZZOLO, IT"
+25,18,"On the way, Package available for clearance",2025-02-23T16:03+01:00,"LONATE POZZOLO, IT"
+25,19,Departed FedEx hub,2025-02-23T21:29+01:00,"LONATE POZZOLO, IT"
+25,20,At local FedEx facility,2025-02-24T08:44+01:00,"GRASSOBBIO, IT"
+25,21,On FedEx vehicle for delivery,2025-02-24T09:50+01:00,"GRASSOBBIO, IT"
+25,22,Delivered,2025-02-24T12:34+01:00,"GAZZANIGA, IT"
+26,1,Picked up,2025-02-20T17:05-05:00,"PEABODY, MA, US"
+26,2,Left FedEx origin facility,2025-02-20T20:41-05:00,"PEABODY, MA, US"
+26,3,Arrived at FedEx hub,2025-02-20T23:43-05:00,"NEWARK, NJ, US"
+26,4,Departed FedEx hub,2025-02-21T05:14-05:00,"NEWARK, NJ, US"
+26,5,On the way,2025-02-21T05:16-05:00,"NEWARK, NJ, US"
+26,6,Arrived at FedEx hub,2025-02-21T17:49+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+26,7,On the way,2025-02-21T18:51+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+26,8,On the way,2025-02-21T22:07+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+26,9,Departed FedEx hub,2025-02-22T00:08+01:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+26,10,Arrived at FedEx hub,2025-02-23T10:00+01:00,"LONATE POZZOLO, IT"
+26,11,International shipment release - Import,2025-02-23T11:50+01:00,"LONATE POZZOLO, IT"
+26,12,"On the way, Package available for clearance",2025-02-23T19:00+01:00,"LONATE POZZOLO, IT"
+26,13,International shipment release - Import,2025-02-23T19:00+01:00,"LONATE POZZOLO, IT"
+26,14,Departed FedEx hub,2025-02-23T21:29+01:00,"LONATE POZZOLO, IT"
+26,15,At local FedEx facility,2025-02-24T08:51+01:00,"GRASSOBBIO, IT"
+26,16,On FedEx vehicle for delivery,2025-02-24T09:51+01:00,"GRASSOBBIO, IT"
+26,17,"Delivery exception, Held, unable to collect payment",2025-02-24T16:26+01:00,"GRASSOBBIO, IT"
+26,18,At local FedEx facility,2025-02-24T16:55+01:00,"GRASSOBBIO, IT"
+26,19,At local FedEx facility,2025-02-25T05:08+01:00,"GRASSOBBIO, IT"
+26,20,On FedEx vehicle for delivery,2025-02-25T09:21+01:00,"GRASSOBBIO, IT"
+26,21,Delivered,2025-02-25T14:12+01:00,"GAZZANIGA, IT"
+30,1,Arrived at Facility,2025-02-27T20:49-05:00,"Thief River Falls, MN, US"
+30,2,Departed from Facility,2025-02-27T22:18-05:00,"Thief River Falls, MN, US"
+30,3,Export Scan,2025-02-28T02:25-05:00,"Louisville, KY, US"
+30,4,Departed from Facility,2025-02-28T05:21-05:00,"Louisville, KY, US"
+30,5,Arrived at Facility,2025-02-28T18:51+01:00,"Koeln, DE"
+30,6,Import Scan,2025-02-28T23:31+01:00,"Koeln, DE"
+30,7,Departed from Facility,2025-03-03T00:45+01:00,"Koeln, DE"
+30,8,Arrived at Facility,2025-03-03T01:58+01:00,"Seriate, IT"
+30,9,Departed from Facility,2025-03-03T03:40+01:00,"Seriate, IT"
+30,10,Arrived at Facility,2025-03-03T05:45+01:00,"Treviolo, IT"
+30,11,Out For Delivery,2025-03-03T06:37+01:00,"Treviolo, IT"
+30,12,Delivered,2025-03-03T11:03+01:00,"GAZZANIGA, IT"
+39,1,Arrived at Facility,2025-04-10T15:14-04:00,"Thief River Falls, MN, US"
+39,2,Departed from Facility,2025-04-10T16:27-04:00,"Thief River Falls, MN, US"
+39,3,Departed from Facility,2025-04-10T21:11-04:00,"Fargo, ND, US"
+39,4,Arrived at Facility,2025-04-11T00:20-04:00,"Louisville, KY, US"
+39,5,Departed from Facility,2025-04-11T03:40-04:00,"Louisville, KY, US"
+39,6,Arrived at Facility,2025-04-11T17:17+02:00,"Koeln, DE"
+39,7,Import Scan,2025-04-11T23:09+02:00,"Koeln, DE"
+39,8,Departed from Facility,2025-04-14T01:00+02:00,"Koeln, DE"
+39,9,Arrived at Facility,2025-04-14T02:06+02:00,"Seriate, IT"
+39,10,Departed from Facility,2025-04-14T04:09+02:00,"Seriate, IT"
+39,11,Arrived at Facility,2025-04-14T06:00+02:00,"Treviolo, IT"
+39,12,Out For Delivery,2025-04-14T06:35+02:00,"Treviolo, IT"
+39,13,Delivered,2025-04-14T14:44+02:00,"GAZZANIGA, IT"
+40,1,Arrived at Facility,2025-04-15T07:08-04:00,"Thief River Falls, MN, US"
+40,2,Departed from Facility,2025-04-15T13:18-04:00,"Thief River Falls, MN, US"
+40,3,Arrived at Facility,2025-04-16T00:19-04:00,"Louisville, KY, US"
+40,4,Export Scan,2025-04-16T01:39-04:00,"Louisville, KY, US"
+40,5,Departed from Facility,2025-04-16T05:09-04:00,"Louisville, KY, US"
+40,6,Arrived at Facility,2025-04-16T18:43+02:00,"Koeln, DE"
+40,7,Import Scan,2025-04-16T23:22+02:00,"Koeln, DE"
+40,8,Departed from Facility,2025-04-17T03:00+02:00,"Koeln, DE"
+40,9,Arrived at Facility,2025-04-17T04:20+02:00,"Seriate, IT"
+40,10,Arrived at Facility,2025-04-17T05:32+02:00,"Treviolo, IT"
+40,11,Processing at UPS Facility,2025-04-17T06:15+02:00,"Treviolo, IT"
+40,12,Delivered,2025-04-17T10:31+02:00,"GAZZANIGA, IT"
+43,1,Arrived at Facility,2025-04-28T12:53-04:00,"Thief River Falls, MN, US"
+43,2,Departed from Facility,2025-04-28T13:10-04:00,"Thief River Falls, MN, US"
+43,3,Departed from Facility,2025-04-28T21:07-04:00,"Fargo, ND, US"
+43,4,Arrived at Facility,2025-04-29T00:08-04:00,"Louisville, KY, US"
+43,5,Departed from Facility,2025-04-29T03:40-04:00,"Louisville, KY, US"
+43,6,Arrived at Facility,2025-04-29T17:36+02:00,"Koeln, DE"
+43,7,Import Scan,2025-04-29T23:30+02:00,"Koeln, DE"
+43,8,Departed from Facility,2025-04-30T03:00+02:00,"Koeln, DE"
+43,9,Arrived at Facility,2025-04-30T04:07+02:00,"Seriate, IT"
+43,10,Departed from Facility,2025-04-30T05:44+02:00,"Seriate, IT"
+43,11,Arrived at Facility,2025-04-30T05:48+02:00,"Treviolo, IT"
+43,12,Out For Delivery,2025-04-30T05:57+02:00,"Treviolo, IT"
+43,13,Delivered,2025-04-30T14:08+02:00,"GAZZANIGA, IT"
+44,1,Arrived at Facility,2025-05-02T12:18-04:00,"Thief River Falls, MN, US"
+44,2,Departed from Facility,2025-05-02T13:10-04:00,"Thief River Falls, MN, US"
+44,3,Departed from Facility,2025-05-02T21:06-04:00,"Fargo, ND, US"
+44,4,Arrived at Facility,2025-05-03T00:10-04:00,"Louisville, KY, US"
+44,5,Export Scan,2025-05-03T01:11-04:00,"Louisville, KY, US"
+44,6,Departed from Facility,2025-05-03T11:51-04:00,"Louisville, KY, US"
+44,7,Arrived at Facility,2025-05-04T01:24+02:00,"Koeln, DE"
+44,8,Import Scan,2025-05-04T19:32+02:00,"Koeln, DE"
+44,9,Departed from Facility,2025-05-05T01:00+02:00,"Koeln, DE"
+44,10,Arrived at Facility,2025-05-05T02:08+02:00,"Seriate, IT"
+44,11,Departed from Facility,2025-05-05T04:41+02:00,"Seriate, IT"
+44,12,Arrived at Facility,2025-05-05T05:40+02:00,"Treviolo, IT"
+44,13,Out For Delivery,2025-05-05T07:11+02:00,"Treviolo, IT"
+44,14,Delivered,2025-05-05T15:53+02:00,"GAZZANIGA, IT"
+46,1,Arrived at Facility,2025-05-07T10:22-04:00,"Thief River Falls, MN, US"
+46,2,Departed from Facility,2025-05-07T13:18-04:00,"Fargo, ND, US"
+46,3,Arrived at Facility,2025-05-07T21:00-04:00,"Louisville, KY, US"
+46,4,Departed from Facility,2025-05-07T23:58-04:00,"Louisville, KY, US"
+46,5,Export Scan,2025-05-08T01:19-04:00,"Louisville, KY, US"
+46,6,Departed from Facility,2025-05-08T05:31-04:00,"Louisville, KY, US"
+46,7,Arrived at Facility,2025-05-08T19:16+02:00,"Koeln, DE"
+46,8,Import Scan,2025-05-08T23:19+02:00,"Koeln, DE"
+46,9,Departed from Facility,2025-05-09T03:00+02:00,"Koeln, DE"
+46,10,Arrived at Facility,2025-05-09T03:54+02:00,"Seriate, IT"
+46,11,Arrived at Facility,2025-05-09T05:30+02:00,"Treviolo, IT"
+46,12,Out For Delivery,2025-05-09T05:49+02:00,"Treviolo, IT"
+46,13,Delivered,2025-05-09T11:04+02:00,"GAZZANIGA, IT"
+49,1,Export Scan,2025-05-08T02:27-04:00,"Louisville, KY, US"
+49,2,Departed from Facility,2025-05-08T05:31-04:00,"Louisville, KY, US"
+49,3,Arrived at Facility,2025-05-08T19:16+02:00,"Koeln, DE"
+49,4,Arrived at Facility,2025-05-08T23:22+02:00,"Koeln, DE"
+49,5,Import Scan,2025-05-08T23:37+02:00,"Koeln, DE"
+49,6,Departed from Facility,2025-05-09T03:00+02:00,"Koeln, DE"
+49,7,Arrived at Facility,2025-05-09T03:54+02:00,"Seriate, IT"
+49,8,Departed from Facility,2025-05-09T05:22+02:00,"Seriate, IT"
+49,9,Arrived at Facility,2025-05-09T05:30+02:00,"Treviolo, IT"
+49,10,Out For Delivery,2025-05-09T05:45+02:00,"Treviolo, IT"
+49,11,Delivered,2025-05-09T14:21+02:00,"GAZZANIGA BG, IT"
+48,1,Arrived at Facility,2025-05-07T19:47-04:00,"Thief River Falls, MN, US"
+48,2,Departed from Facility,2025-05-07T22:00-04:00,"Thief River Falls, MN, US"
+48,3,Export Scan,2025-05-08T02:20-04:00,"Thief River Falls, MN, US"
+48,4,Departed from Facility,2025-05-08T05:31-04:00,"Louisville, KY, US"
+48,5,Arrived at Facility,2025-05-08T19:16+02:00,"Koeln, DE"
+48,6,Import Scan,2025-05-08T23:22+02:00,"Koeln, DE"
+48,7,Import Scan,2025-05-08T23:37+02:00,"Koeln, DE"
+48,8,Departed from Facility,2025-05-09T03:00+02:00,"Koeln, DE"
+48,9,Arrived at Facility,2025-05-09T03:54+02:00,"Seriate, IT"
+48,10,Arrived at Facility,2025-05-09T05:30+02:00,"Treviolo, IT"
+48,11,Out For Delivery,2025-05-09T05:45+02:00,"Treviolo, IT"
+48,12,Delivered,2025-05-09T14:21+02:00,"GAZZANIGA, IT"
+51,1,Arrived at Facility,2025-05-09T15:07-04:00,"Thief River Falls, MN, US"
+51,2,Departed from Facility,2025-05-09T16:27-04:00,"Thief River Falls, MN, US"
+51,3,Departed from Facility,2025-05-09T20:56-04:00,"Fargo, ND, US"
+51,4,Arrived at Facility,2025-05-10T00:02-04:00,"Louisville, KY, US"
+51,5,Departed from Facility,2025-05-10T15:24-04:00,"Louisville, KY, US"
+51,6,Arrived at Facility,2025-05-11T05:17+02:00,"Koeln, DE"
+51,7,Import Scan,2025-05-11T20:47+02:00,"Koeln, DE"
+51,8,Arrived at Facility,2025-05-12T02:09+02:00,"Seriate, IT"
+51,9,Departed from Facility,2025-05-12T03:42+02:00,"Seriate, IT"
+51,10,Arrived at Facility,2025-05-12T05:30+02:00,"Treviolo, IT"
+51,11,Out For Delivery,2025-05-12T06:27+02:00,"Treviolo, IT"
+51,12,Delivered,2025-05-12T15:21+02:00,"GAZZANIGA, IT"
+45,1,Arrived at Facility,2025-05-08T09:56-04:00,"Thief River Falls, MN, US"
+45,2,Departed from Facility,2025-05-08T13:18-04:00,"Thief River Falls, MN, US"
+45,3,Departed from Facility,2025-05-08T21:21-04:00,"Fargo, ND, US"
+45,4,Arrived at Facility,2025-05-09T00:48-04:00,"Louisville, KY, US"
+45,5,Departed from Facility,2025-05-09T03:43-04:00,"Louisville, KY, US"
+45,6,Arrived at Facility,2025-05-09T17:42+02:00,"Koeln, DE"
+45,7,Import Scan,2025-05-09T22:42+02:00,"Koeln, DE"
+45,8,Departed from Facility,2025-05-12T00:45+02:00,"Koeln, DE"
+45,9,Arrived at Facility,2025-05-12T02:09+02:00,"Seriate, IT"
+45,10,Departed from Facility,2025-05-12T03:42+02:00,"Seriate, IT"
+45,11,Arrived at Facility,2025-05-12T05:30+02:00,"Treviolo, IT"
+45,12,Out For Delivery,2025-05-12T06:37+02:00,"Treviolo, IT"
+45,13,Delivered,2025-05-12T15:21+02:00,"GAZZANIGA, IT"
+50,1,Arrived at Facility,2025-05-08T14:17-04:00,"Thief River Falls, MN, US"
+50,2,Departed from Facility,2025-05-08T16:27-04:00,"Thief River Falls, MN, US"
+50,3,Departed from Facility,2025-05-09T05:22-04:00,"Louisville, KY, US"
+50,4,Arrived at Facility,2025-05-09T19:20+02:00,"Koeln, DE"
+50,5,Import Scan,2025-05-09T23:04+02:00,"Koeln, DE"
+50,6,Departed from Facility,2025-05-12T00:45+02:00,"Koeln, DE"
+50,7,Arrived at Facility,2025-05-12T02:09+02:00,"Seriate, IT"
+50,8,Departed from Facility,2025-05-12T03:42+02:00,"Seriate, IT"
+50,9,Arrived at Facility,2025-05-12T05:30+02:00,"Treviolo, IT"
+50,10,Out For Delivery,2025-05-12T06:36+02:00,"Treviolo, IT"
+50,11,Delivered,2025-05-12T15:21+02:00,"GAZZANIGA, IT"
+42,1,Arrived at Facility,2025-05-08T14:06-04:00,"Thief River Falls, MN, US"
+42,2,Departed from Facility,2025-05-08T16:27-04:00,"Thief River Falls, MN, US"
+42,3,Export Scan,2025-05-09T02:13-04:00,"Louisville, KY, US"
+42,4,Departed from Facility,2025-05-09T05:22-04:00,"Louisville, KY, US"
+42,5,Arrived at Facility,2025-05-09T19:20+02:00,"Koeln, DE"
+42,6,Import Scan,2025-05-09T23:13+02:00,"Koeln, DE"
+42,7,Departed from Facility,2025-05-12T00:45+02:00,"Koeln, DE"
+42,8,Arrived at Facility,2025-05-12T02:09+02:00,"Seriate, IT"
+42,9,Departed from Facility,2025-05-12T03:42+02:00,"Seriate, IT"
+42,10,Arrived at Facility,2025-05-12T05:30+02:00,"Treviolo, IT"
+42,11,Out For Delivery,2025-05-12T06:34+02:00,"Treviolo, IT"
+42,12,Delivered,2025-05-12T10:51+02:00,"GAZZANIGA, IT"
+47,1,Arrived at Facility,2025-05-08T14:18-04:00,"Thief River Falls, MN, US"
+47,2,Departed from Facility,2025-05-08T16:27-04:00,"Thief River Falls, MN, US"
+47,3,Departed from Facility,2025-05-08T21:21-04:00,"Fargo, ND, US"
+47,4,Arrived at Facility,2025-05-09T00:48-04:00,"Louisville, KY, US"
+47,5,Departed from Facility,2025-05-09T03:43-04:00,"Louisville, KY, US"
+47,6,Arrived at Facility,2025-05-09T17:42+02:00,"Koeln, DE"
+47,7,Import Scan,2025-05-09T22:42+02:00,"Koeln, DE"
+47,8,Departed from Facility,2025-05-12T00:45+02:00,"Koeln, DE"
+47,9,Arrived at Facility,2025-05-12T02:09+02:00,"Seriate, IT"
+47,10,Departed from Facility,2025-05-12T03:42+02:00,"Seriate, IT"
+47,11,Arrived at Facility,2025-05-12T05:30+02:00,"Treviolo, IT"
+47,12,Out For Delivery,2025-05-12T06:23+02:00,"Treviolo, IT"
+47,13,Delivered,2025-05-12T15:21+02:00,"GAZZANIGA, IT"
+32,1,Picked up,2025-03-31T13:21-06:00,"BELEN, CR"
+32,2,On the way,2025-03-31T15:58-06:00,"BELEN, CR"
+32,3,On the way,2025-03-31T17:18-06:00,"BELEN, CR"
+32,4,On the way,2025-03-31T17:23-06:00,"BELEN, CR"
+32,5,Left FedEx origin facility,2025-03-31T17:25-06:00,"BELEN, CR"
+32,6,On the way,2025-03-31T17:25-06:00,"BELEN, CR"
+32,7,Arrived at FedEx hub,2025-03-31T23:30-04:00,"MEMPHIS, TN, US"
+32,8,On the way,2025-04-01T00:21-04:00,"MEMPHIS, TN, US"
+32,9,On the way,2025-04-01T03:40-04:00,"MEMPHIS, TN, US"
+32,10,Departed FedEx hub,2025-04-01T04:22-04:00,"MEMPHIS, TN, US"
+32,11,Arrived at FedEx hub,2025-04-01T19:38+02:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+32,12,"On the way, Package available for clearance",2025-04-01T23:58+02:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+32,13,International shipment release - Import,2025-04-02T08:35+02:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+32,14,On the way,2025-04-03T03:40+02:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+32,15,Departed FedEx hub,2025-04-03T04:24+02:00,"ROISSY CHARLES DE GAULLE CEDEX, 95, FR"
+32,16,At destination sort facility,2025-04-03T05:26+02:00,"LONATE POZZOLO, IT"
+32,17,On the way,2025-04-03T05:51+02:00,"LONATE POZZOLO, IT"
+32,18,Departed FedEx hub,2025-04-03T07:36+02:00,"LONATE POZZOLO, IT"
+32,19,At local FedEx facility,2025-04-03T09:11+02:00,"GRASSOBBIO, IT"
+32,20,On FedEx vehicle for delivery,2025-04-03T09:18+02:00,"GRASSOBBIO, IT"
+32,21,Delivered,2025-04-03T10:16+02:00,"GAZZANIGA BG, IT"
+41,1,Shipment picked up,2025-04-16T21:45+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+41,2,"Arrived at DHL Sort Facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-17T09:20+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+41,3,"Processed at SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-17T09:47+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+41,4,"Shipment has departed from a DHL facility SHENZHEN - CHINA, PEOPLES REPUBLIC",2025-04-17T11:13+08:00,"SHENZHEN - CHINA, PEOPLES REPUBLIC"
+41,5,"Arrived at DHL Sort Facility HONG KONG - HONG KONG SAR, CHINA",2025-04-17T12:48+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+41,6,"Processed at HONG KONG - HONG KONG SAR, CHINA",2025-04-17T16:28+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+41,7,"Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",2025-04-17T17:34+08:00,"HONG KONG - HONG KONG SAR, CHINA"
+41,8,Arrived at DHL Sort Facility LEIPZIG - GERMANY,2025-04-18T01:10+02:00,LEIPZIG - GERMANY
+41,9,Processed at LEIPZIG - GERMANY,2025-04-18T02:14+02:00,LEIPZIG - GERMANY
+41,10,Shipment has departed from a DHL facility LEIPZIG - GERMANY,2025-04-18T04:34+02:00,LEIPZIG - GERMANY
+41,11,Arrived at DHL Sort Facility BRESCIA - ITALY,2025-04-18T06:40+02:00,BRESCIA - ITALY
+41,12,Clearance processing complete at BRESCIA - ITALY,2025-04-18T07:13+02:00,BRESCIA - ITALY
+41,13,Processed at BRESCIA - ITALY,2025-04-18T07:31+02:00,BRESCIA - ITALY
+41,14,Shipment has departed from a DHL facility BRESCIA - ITALY,2025-04-18T08:11+02:00,BRESCIA - ITALY
+41,15,Arrived at DHL Delivery Facility BERGAMO - ITALY,2025-04-18T09:04+02:00,BERGAMO - ITALY
+41,16,Processed at BERGAMO - ITALY,2025-04-18T09:13+02:00,BERGAMO - ITALY
+41,17,Shipment is out with courier for delivery,2025-04-18T09:36+02:00,BERGAMO - ITALY
+41,18,Delivered,2025-04-18T11:39+02:00,"GAZZANIGA, IT"

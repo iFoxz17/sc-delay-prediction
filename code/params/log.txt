@@ -1,0 +1,305 @@
+Timestamp: 2025-07-20T15:18:12.952174
+Level: INFO
+Message: Record updated successfully: {'id': 33, 'name': 'PT_EXT_DATA_MIN_PROBABILITY', 'general_category': 'TFST', 'category': 'PT', 'description': 'Minimum probability of a path to request external data in the PT calculation', 'value': '0.2500'}
+
+Timestamp: 2025-07-20T15:18:12.952193
+Level: INFO
+Message: Record 1 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952199
+Level: INFO
+Message: Record 2 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952203
+Level: INFO
+Message: Record 3 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952206
+Level: INFO
+Message: Record 4 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952210
+Level: INFO
+Message: Record 5 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952213
+Level: INFO
+Message: Record 6 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952216
+Level: INFO
+Message: Record 7 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952220
+Level: INFO
+Message: Record 8 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952223
+Level: INFO
+Message: Record 9 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952227
+Level: INFO
+Message: Record 10 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952230
+Level: INFO
+Message: Record 11 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952233
+Level: INFO
+Message: Record 12 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952236
+Level: INFO
+Message: Record 13 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952240
+Level: INFO
+Message: Record 14 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952245
+Level: INFO
+Message: Record 15 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952248
+Level: INFO
+Message: Record 16 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952252
+Level: INFO
+Message: Record 17 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952255
+Level: INFO
+Message: Record 18 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952258
+Level: INFO
+Message: Record 19 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952262
+Level: INFO
+Message: Record 20 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952265
+Level: INFO
+Message: Record 21 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952268
+Level: INFO
+Message: Record 22 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952271
+Level: INFO
+Message: Record 23 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952274
+Level: INFO
+Message: Record 24 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952278
+Level: INFO
+Message: Record 25 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952281
+Level: INFO
+Message: Record 26 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952284
+Level: INFO
+Message: Record 27 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952287
+Level: INFO
+Message: Record 28 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952291
+Level: INFO
+Message: Record 29 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952294
+Level: INFO
+Message: Record 30 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952297
+Level: INFO
+Message: Record 31 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952300
+Level: INFO
+Message: Record 32 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952303
+Level: INFO
+Message: Record 34 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952307
+Level: INFO
+Message: Record 35 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952310
+Level: INFO
+Message: Record 36 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952313
+Level: INFO
+Message: Record 37 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952316
+Level: INFO
+Message: Record 38 deleted successfully.
+
+Timestamp: 2025-07-20T15:18:12.952326
+Level: INFO
+Message: Record 39 deleted successfully.Timestamp: 2025-07-20T15:24:04.580209
+Level: INFO
+Message: Record 40 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580217
+Level: INFO
+Message: Record 41 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580218
+Level: INFO
+Message: Record 42 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580220
+Level: INFO
+Message: Record 43 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580221
+Level: INFO
+Message: Record 44 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580222
+Level: INFO
+Message: Record 45 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580223
+Level: INFO
+Message: Record 46 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580224
+Level: INFO
+Message: Record 47 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580225
+Level: INFO
+Message: Record 48 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580226
+Level: INFO
+Message: Record 49 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580227
+Level: INFO
+Message: Record 50 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580228
+Level: INFO
+Message: Record 51 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580229
+Level: INFO
+Message: Record 52 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580230
+Level: INFO
+Message: Record 53 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580231
+Level: INFO
+Message: Record 54 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580232
+Level: INFO
+Message: Record 55 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580233
+Level: INFO
+Message: Record 56 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580234
+Level: INFO
+Message: Record 57 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580235
+Level: INFO
+Message: Record 58 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580236
+Level: INFO
+Message: Record 59 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580237
+Level: INFO
+Message: Record 60 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580238
+Level: INFO
+Message: Record 61 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580239
+Level: INFO
+Message: Record 62 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580239
+Level: INFO
+Message: Record 63 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580240
+Level: INFO
+Message: Record 64 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580241
+Level: INFO
+Message: Record 65 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580242
+Level: INFO
+Message: Record 66 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580243
+Level: INFO
+Message: Record 67 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580244
+Level: INFO
+Message: Record 68 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580245
+Level: INFO
+Message: Record 69 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580246
+Level: INFO
+Message: Record 70 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580247
+Level: INFO
+Message: Record 71 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580248
+Level: INFO
+Message: Record 73 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580249
+Level: INFO
+Message: Record 74 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580249
+Level: INFO
+Message: Record 75 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580250
+Level: INFO
+Message: Record 76 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580251
+Level: INFO
+Message: Record 77 deleted successfully.
+
+Timestamp: 2025-07-20T15:24:04.580252
+Level: INFO
+Message: Record 78 deleted successfully.

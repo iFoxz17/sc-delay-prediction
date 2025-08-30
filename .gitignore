@@ -1,0 +1,23 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+deploy.txt
+*.http
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Python virtual environment
+.venv
+
+# Python cache files
+__pycache__
+.pytest_cache
+
+*.db
+.vscode
+directory_size_util.py
+LambdaPY/graph_manager/builder_service/local/csv*/
+LambdaPY/graph_manager/builder_service/local/sc_graph.json

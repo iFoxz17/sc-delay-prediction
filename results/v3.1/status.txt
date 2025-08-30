@@ -1,0 +1,26 @@
+Holidays:
+    - all considered
+
+DT:
+    - confidence = 0.9
+
+Alpha:
+    - polynomial
+    - tt_weight optimized for site = 3, carrier = 2 
+
+RTEstimator:
+    - XGBoost
+    - mape = 0.766022
+    - pt_external_data_min_probability = 0.05
+    - tmi_traffic_max_timediff = 48.0
+    - wmi_weather_max_timediff = 48.0
+
+PT:
+    - confidence = 0.9
+
+TT:
+    - confidence = 0.9
+
+Time deviation:
+    - dispatch confidence = 0.5
+    - shipment confidence = 0.5

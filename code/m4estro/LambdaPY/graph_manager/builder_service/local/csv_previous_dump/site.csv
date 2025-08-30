@@ -1,0 +1,20 @@
+id,supplier_id,location_name,n_rejections,n_orders,consider_closure_holidays,consider_working_holidays,consider_weekends_holidays
+1,1,"LEEDS, ENGLAND, GB",0,5,True,True,True
+2,2,"LOUISVILLE, KENTUCKY, US",0,1,True,True,True
+3,2,"THIEF RIVER FALLS, MINNESOTA, US",0,20,True,True,True
+4,3,"GRAND PRAIRIE, TEXAS, US",0,5,True,True,True
+5,4,"PEABODY, MASSACHUSETTS, US",0,1,True,True,True
+6,4,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+7,5,"DONGGUAN, GUANGDONG, CN",0,2,True,True,True
+8,5,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+9,6,"HONG KONG, UNKNOWN, HK",0,1,True,True,True
+10,6,"ZHUHAI, GUANGDONG, CN",0,1,True,True,True
+11,7,"WARSAW, MAZOVIA, PL",0,1,True,True,True
+12,8,"HO CHI MINH CITY, HO CHI MINH, VN",0,1,True,True,True
+13,8,"SAN JOSÉ, SAN JOSÉ, CR",0,1,True,True,True
+14,9,"BRATISLAVA, BRATISLAVA REGION, SK",0,1,True,True,True
+15,9,"GDANSK, POMERANIA, PL",0,3,True,True,True
+16,10,"SHENZHEN, GUANGDONG, CN",0,3,True,True,True
+17,11,"BOCA RATON, FLORIDA, US",0,1,True,True,True
+18,12,"SHENZHEN, GUANGDONG, CN",0,1,True,True,True
+19,13,"MINNEAPOLIS, MINNESOTA, US",0,1,True,True,True

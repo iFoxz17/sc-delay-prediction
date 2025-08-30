@@ -1,0 +1,14 @@
+-r stats_layer/requirements.txt
+-r platform_comm_layer/requirements.txt
+-r graph_layer/requirements.txt
+
+-r historical_lcdi/requirements.txt
+-r realtime_lcdi/requirements.txt
+-r graph_manager/requirements.txt
+
+-r graph_manager/builder_service/local/requirements.txt
+
+-r testPY/requirements-test.txt
+
+boto3
+pandas

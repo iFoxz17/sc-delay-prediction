@@ -1,0 +1,42 @@
+id,name,category,general_category,description,value
+1,HISTORICAL_DISPATCH_CONFIDENCE,DISPATCH_TIME,HISTORICAL,Historical dispatch time confidence level,0.9
+2,HISTORICAL_SHIPMENT_CONFIDENCE,SHIPMENT_TIME,HISTORICAL,Historical shipment time confidence level,0.9
+3,DT_CONFIDENCE,DISPATCH_TIME,REALTIME,Dispatch time confidence,0.9
+4,DISPATCH_CLOSURE_HOLIDAYS,HOLIDAY,REALTIME,Whether to consider closure holidays in the dispatch time estimation,1.0
+5,DISPATCH_WORKING_HOLIDAYS,HOLIDAY,REALTIME,Whether to consider working holidays in the dispatch time estimation,1.0
+6,DISPATCH_CLOSURE_WEEKENDS,HOLIDAY,REALTIME,Whether to consider weekends as holidays in the dispatch time estimation,1.0
+7,TMI_AIR_MIN_SPEED_KM_H,TMI,REALTIME,Minimum air speed used in TMI calculation (km/h),200.0
+8,TMI_AIR_MAX_SPEED_KM_H,TMI,REALTIME,Maximum air speed used in TMI calculation (km/h),1000.0
+9,TMI_SEA_MIN_SPEED_KM_H,TMI,REALTIME,Minimum sea speed used in TMI calculation (km/h),10.0
+10,TMI_SEA_MAX_SPEED_KM_H,TMI,REALTIME,Maximum sea speed used in TMI calculation (km/h),50.0
+11,TMI_RAIL_MIN_SPEED_KM_H,TMI,REALTIME,Minimum rail speed used in TMI calculation (km/h),30.0
+12,TMI_RAIL_MAX_SPEED_KM_H,TMI,REALTIME,Maximum rail speed used in TMI calculation (km/h),100.0
+13,TMI_ROAD_MIN_SPEED_KM_H,TMI,REALTIME,Minimum road speed used in TMI calculation (km/h),0.0
+14,TMI_ROAD_MAX_SPEED_KM_H,TMI,REALTIME,Maximum road speed used in TMI calculation (km/h),110.0
+15,TMI_AIR_MIN_DISTANCE_KM,TMI,REALTIME,Minimum distance for air transport (km),500.0
+16,TMI_AIR_MAX_DISTANCE_KM,TMI,REALTIME,Maximum distance for air transport (km),100000000.0
+17,TMI_SEA_MIN_DISTANCE_KM,TMI,REALTIME,Minimum distance for sea transport (km),1000.0
+18,TMI_SEA_MAX_DISTANCE_KM,TMI,REALTIME,Maximum distance for sea transport (km),100000000.0
+19,TMI_RAIL_MIN_DISTANCE_KM,TMI,REALTIME,Minimum distance for rail transport (km),300.0
+20,TMI_RAIL_MAX_DISTANCE_KM,TMI,REALTIME,Maximum distance for rail transport (km),1000.0
+21,TMI_ROAD_MIN_DISTANCE_KM,TMI,REALTIME,Minimum distance for road transport (km),0.0
+22,TMI_ROAD_MAX_DISTANCE_KM,TMI,REALTIME,Maximum distance for road transport (km),300.0
+23,TMI_USE_TRAFFIC_SERVICE,TMI,REALTIME,Whether to use traffic service in TMI,1.0
+24,TMI_TRAFFIC_MAX_TIMEDIFF,TMI,REALTIME,Maximum time difference allowed for retrieving traffic data (hours),24.0
+25,WMI_USE_WEATHER_SERVICE,WMI,REALTIME,Whether to use weather service in WMI,1.0
+26,WMI_WEATHER_MAX_TIMEDIFF,WMI,REALTIME,Maximum time difference allowed for retrieving weather data (hours),24.0
+27,WMI_STEP_DISTANCE_KM,WMI,REALTIME,Distance step for WMI route interpolation (km),100.0
+28,WMI_MAX_POINTS,WMI,REALTIME,Maximum number of points for WMI route interpolation,3.0
+29,RT_ESTIMATOR_MODEL_MAPE,ROUTE_TIME_ESTIMATOR,REALTIME,Mean Absolute Percentage Error of the route time estimator model,0.3793
+30,USE_RT_ESTIMATOR_MODEL,ROUTE_TIME_ESTIMATOR,REALTIME,Whether to use the route time estimator model,1.0
+31,ALPHA_CONST_VALUE,ALPHA,REALTIME,Constant alpha value for the alpha const calculator,0.5
+32,ALPHA_CALCULATOR_TYPE,ALPHA,REALTIME,"Alpha calculator type (constant=0, exp=1, markov=2)",1.0
+33,PT_PATH_MIN_PROBABILITY,PT,REALTIME,Minimum probability to include a path in the PT calculation,0.05
+34,PT_MAX_PATHS,PT,REALTIME,Maximum number of paths considered in the PT calculation,10.0
+35,PT_EXT_DATA_MIN_PROBABILITY,PT,REALTIME,Minimum probability of a path to request external data in the PT calculation ,0.3
+36,PT_CONFIDENCE,PT,REALTIME,Path time confidence (beta 2 parameter for TFST indicator),0.9
+37,TT_CONFIDENCE,TT,REALTIME,Transit time confidence (beta 1 parameter for TFST indicator),0.9
+38,TFST_TOLERANCE,TFST,REALTIME,Tolerance level for skipping PT calculation (when alpha > 1 - tolerance) or TT calculation (when alpha < tolerance),0.05
+39,DELAY_DISPATCH_CONFIDENCE,DISPATCH_TIME,REALTIME,Dispatch time confidence (for the calculation of the delay),0.5
+40,DELAY_SHIPMENT_CONFIDENCE,SHIPMENT_TIME,REALTIME,Shipment time confidence (for the calculation of the delay),0.5
+41,PARALLELIZATION,SYSTEM,SYSTEM,Parallelization level for the realtime lcdi lambda,1.0

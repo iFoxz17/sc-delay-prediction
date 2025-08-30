@@ -1,0 +1,751 @@
+{
+  "number": "2522622410",
+  "carrier": 100001,
+  "param": null,
+  "tag": "",
+  "track_info": {
+    "shipping_info": {
+      "shipper_address": {
+        "country": "CN",
+        "state": null,
+        "city": null,
+        "street": null,
+        "postal_code": null,
+        "coordinates": {
+          "longitude": null,
+          "latitude": null
+        }
+      },
+      "recipient_address": {
+        "country": "IT",
+        "state": null,
+        "city": null,
+        "street": null,
+        "postal_code": null,
+        "coordinates": {
+          "longitude": null,
+          "latitude": null
+        }
+      }
+    },
+    "latest_status": {
+      "status": "Delivered",
+      "sub_status": "Delivered_Other",
+      "sub_status_descr": null
+    },
+    "latest_event": {
+      "time_iso": "2025-04-18T11:39:00+02:00",
+      "time_utc": "2025-04-18T09:39:00Z",
+      "time_raw": {
+        "date": "2025-04-18",
+        "time": "11:39:00",
+        "timezone": null
+      },
+      "description": "Delivered",
+      "location": "BERGAMO - ITALY",
+      "stage": "Delivered",
+      "sub_status": "Delivered_Other",
+      "address": {
+        "country": "IT",
+        "state": null,
+        "city": "BERGAMO",
+        "street": null,
+        "postal_code": null,
+        "coordinates": {
+          "longitude": null,
+          "latitude": null
+        }
+      }
+    },
+    "time_metrics": {
+      "days_after_order": 2,
+      "days_of_transit": 2,
+      "days_of_transit_done": 2,
+      "days_after_last_update": 0,
+      "estimated_delivery_date": {
+        "source": null,
+        "from": null,
+        "to": null
+      }
+    },
+    "milestone": [
+      {
+        "key_stage": "InfoReceived",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "PickedUp",
+        "time_iso": "2025-04-16T21:45:00+02:00",
+        "time_utc": "2025-04-16T19:45:00Z",
+        "time_raw": {
+          "date": "2025-04-16",
+          "time": "21:45:00",
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "Departure",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "Arrival",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "AvailableForPickup",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "OutForDelivery",
+        "time_iso": "2025-04-18T09:36:00+02:00",
+        "time_utc": "2025-04-18T07:36:00Z",
+        "time_raw": {
+          "date": "2025-04-18",
+          "time": "09:36:00",
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "Delivered",
+        "time_iso": "2025-04-18T11:39:00+02:00",
+        "time_utc": "2025-04-18T09:39:00Z",
+        "time_raw": {
+          "date": "2025-04-18",
+          "time": "11:39:00",
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "Returning",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      },
+      {
+        "key_stage": "Returned",
+        "time_iso": null,
+        "time_utc": null,
+        "time_raw": {
+          "date": null,
+          "time": null,
+          "timezone": null
+        }
+      }
+    ],
+    "misc_info": {
+      "risk_factor": 0,
+      "service_type": null,
+      "weight_raw": null,
+      "weight_kg": null,
+      "pieces": "1",
+      "dimensions": null,
+      "customer_number": null,
+      "reference_number": null,
+      "local_number": null,
+      "local_provider": null,
+      "local_key": 0
+    },
+    "tracking": {
+      "providers_hash": 1138385765,
+      "providers": [
+        {
+          "provider": {
+            "key": 100001,
+            "name": "DHL Express",
+            "alias": "DHL Express",
+            "tel": "+1 (800) 225-5345",
+            "homepage": "https://mydhl.express.dhl/",
+            "country": "DE"
+          },
+          "provider_lang": null,
+          "service_type": null,
+          "latest_sync_status": "Success",
+          "latest_sync_time": "2025-06-03T08:16:53Z",
+          "events_hash": -2107186091,
+          "events": [
+            {
+              "time_iso": "2025-04-18T11:39:00+02:00",
+              "time_utc": "2025-04-18T09:39:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "11:39:00",
+                "timezone": null
+              },
+              "description": "Delivered",
+              "location": "BERGAMO - ITALY",
+              "stage": "Delivered",
+              "sub_status": "Delivered_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BERGAMO",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T09:36:00+02:00",
+              "time_utc": "2025-04-18T07:36:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "09:36:00",
+                "timezone": null
+              },
+              "description": "Shipment is out with courier for delivery",
+              "location": "BERGAMO - ITALY",
+              "stage": "OutForDelivery",
+              "sub_status": "OutForDelivery_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BERGAMO",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T09:13:00+02:00",
+              "time_utc": "2025-04-18T07:13:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "09:13:00",
+                "timezone": null
+              },
+              "description": "Processed at BERGAMO - ITALY",
+              "location": "BERGAMO - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BERGAMO",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T09:04:00+02:00",
+              "time_utc": "2025-04-18T07:04:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "09:04:00",
+                "timezone": null
+              },
+              "description": "Arrived at DHL Delivery Facility BERGAMO - ITALY",
+              "location": "BERGAMO - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BERGAMO",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T08:11:00+02:00",
+              "time_utc": "2025-04-18T06:11:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "08:11:00",
+                "timezone": null
+              },
+              "description": "Shipment has departed from a DHL facility BRESCIA - ITALY",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T07:31:00+02:00",
+              "time_utc": "2025-04-18T05:31:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "07:31:00",
+                "timezone": null
+              },
+              "description": "Processed at BRESCIA - ITALY",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T07:13:00+02:00",
+              "time_utc": "2025-04-18T05:13:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "07:13:00",
+                "timezone": null
+              },
+              "description": "Clearance processing complete at BRESCIA - ITALY",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T06:40:00+02:00",
+              "time_utc": "2025-04-18T04:40:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "06:40:00",
+                "timezone": null
+              },
+              "description": "Arrived at DHL Sort Facility BRESCIA - ITALY",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T05:21:00+02:00",
+              "time_utc": "2025-04-18T03:21:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "05:21:00",
+                "timezone": null
+              },
+              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination.",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T04:51:00+02:00",
+              "time_utc": "2025-04-18T02:51:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "04:51:00",
+                "timezone": null
+              },
+              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination.",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T04:34:00+02:00",
+              "time_utc": "2025-04-18T02:34:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "04:34:00",
+                "timezone": null
+              },
+              "description": "Shipment has departed from a DHL facility LEIPZIG - GERMANY",
+              "location": "LEIPZIG - GERMANY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "DE",
+                "state": null,
+                "city": "LEIPZIG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T02:14:00+02:00",
+              "time_utc": "2025-04-18T00:14:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "02:14:00",
+                "timezone": null
+              },
+              "description": "Processed at LEIPZIG - GERMANY",
+              "location": "LEIPZIG - GERMANY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "DE",
+                "state": null,
+                "city": "LEIPZIG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-18T01:10:00+02:00",
+              "time_utc": "2025-04-17T23:10:00Z",
+              "time_raw": {
+                "date": "2025-04-18",
+                "time": "01:10:00",
+                "timezone": null
+              },
+              "description": "Arrived at DHL Sort Facility LEIPZIG - GERMANY",
+              "location": "LEIPZIG - GERMANY",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "DE",
+                "state": null,
+                "city": "LEIPZIG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T17:47:00+02:00",
+              "time_utc": "2025-04-17T15:47:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "17:47:00",
+                "timezone": null
+              },
+              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination.",
+              "location": "LEIPZIG - GERMANY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "DE",
+                "state": null,
+                "city": "LEIPZIG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T17:38:00+02:00",
+              "time_utc": "2025-04-17T15:38:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "17:38:00",
+                "timezone": null
+              },
+              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination.",
+              "location": "LEIPZIG - GERMANY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "DE",
+                "state": null,
+                "city": "LEIPZIG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T17:34:00+02:00",
+              "time_utc": "2025-04-17T15:34:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "17:34:00",
+                "timezone": null
+              },
+              "description": "Shipment has departed from a DHL facility HONG KONG - HONG KONG SAR, CHINA",
+              "location": "HONG KONG - HONG KONG SAR, CHINA",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "HONG KONG SAR",
+                "city": "HONG KONG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T16:28:00+02:00",
+              "time_utc": "2025-04-17T14:28:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "16:28:00",
+                "timezone": null
+              },
+              "description": "Processed at HONG KONG - HONG KONG SAR, CHINA",
+              "location": "HONG KONG - HONG KONG SAR, CHINA",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "HONG KONG SAR",
+                "city": "HONG KONG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T12:48:00+02:00",
+              "time_utc": "2025-04-17T10:48:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "12:48:00",
+                "timezone": null
+              },
+              "description": "Arrived at DHL Sort Facility HONG KONG - HONG KONG SAR, CHINA",
+              "location": "HONG KONG - HONG KONG SAR, CHINA",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "HONG KONG SAR",
+                "city": "HONG KONG",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T11:13:00+02:00",
+              "time_utc": "2025-04-17T09:13:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "11:13:00",
+                "timezone": null
+              },
+              "description": "Shipment has departed from a DHL facility SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "location": "SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "CHINA",
+                "city": "SHENZHEN",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T09:47:00+02:00",
+              "time_utc": "2025-04-17T07:47:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "09:47:00",
+                "timezone": null
+              },
+              "description": "Processed at SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "location": "SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "CHINA",
+                "city": "SHENZHEN",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-17T09:20:00+02:00",
+              "time_utc": "2025-04-17T07:20:00Z",
+              "time_raw": {
+                "date": "2025-04-17",
+                "time": "09:20:00",
+                "timezone": null
+              },
+              "description": "Arrived at DHL Sort Facility SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "location": "SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "stage": null,
+              "sub_status": "InTransit_Other",
+              "address": {
+                "country": "CN",
+                "state": "CHINA",
+                "city": "SHENZHEN",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-16T17:25:00+02:00",
+              "time_utc": "2025-04-16T15:25:00Z",
+              "time_raw": {
+                "date": "2025-04-16",
+                "time": "17:25:00",
+                "timezone": null
+              },
+              "description": "Customs clearance status updated. Note - The Customs clearance process may start while the shipment is in transit to the destination.",
+              "location": "BRESCIA - ITALY",
+              "stage": null,
+              "sub_status": "InTransit_CustomsReleased",
+              "address": {
+                "country": "IT",
+                "state": null,
+                "city": "BRESCIA",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            },
+            {
+              "time_iso": "2025-04-16T21:45:00+02:00",
+              "time_utc": "2025-04-16T19:45:00Z",
+              "time_raw": {
+                "date": "2025-04-16",
+                "time": "21:45:00",
+                "timezone": null
+              },
+              "description": "Shipment picked up",
+              "location": "SHENZHEN - CHINA, PEOPLES REPUBLIC",
+              "stage": "PickedUp",
+              "sub_status": "InTransit_PickedUp",
+              "address": {
+                "country": "CN",
+                "state": "CHINA",
+                "city": "SHENZHEN",
+                "street": null,
+                "postal_code": null,
+                "coordinates": {
+                  "longitude": null,
+                  "latitude": null
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
