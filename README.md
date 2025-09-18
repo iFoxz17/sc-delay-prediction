@@ -1,4 +1,4 @@
-# Delay Prediction in Supply Chains: A Hybrid Graph-Based and Machine Learning Approach
+# Delay Prediction in Supply Chains: *A Hybrid Graph-Based and Machine Learning Approach*
 
 ## Abstract
 Global supply chains face frequent disruptions from both external events, such as natural disasters, and internal operational issues, including supplier and shipment delays. This work, carried out within the scope of the Horizon Europe project \textit{Industrial Manufacturing As a sErvice STRategies and models for flexible, resilient, and reconfigurable value networks through Trusted and Transparent Operations} (**M4ESTRO**), contributes to strengthening manufacturing resilience through real-time disruption monitoring, with a specific focus on internal delivery processes.
