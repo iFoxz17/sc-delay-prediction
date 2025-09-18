@@ -1,1 +1,8 @@
-# Supply Chain Delay Prediction
+# Delay Prediction in Supply Chains: A Hybrid Graph-Based and Machine Learning Approach
+
+## Abstract
+Global supply chains face frequent disruptions from both external events, such as natural disasters, and internal operational issues, including supplier and shipment delays. This work, carried out within the scope of the Horizon Europe project \textit{Industrial Manufacturing As a sErvice STRategies and models for flexible, resilient, and reconfigurable value networks through Trusted and Transparent Operations} (**M4ESTRO**), contributes to strengthening manufacturing resilience through real-time disruption monitoring, with a specific focus on internal delivery processes.
+
+We present a mathematical framework for representing the delivery stages of supply chains, supported by lightweight predictive models built on a set of real-time indicators. These indicators quantify operational performance during dispatch and shipment processes, enabling the generation of reliable forecasts and associated uncertainty estimates. The framework leverages probabilistic methods and Markov chain based approaches to estimate delivery times, detect deviations from planned schedules and provide interpretable measures for operational decision-making.
+
+A prototype implementation validates the approach by integrating heterogeneous data sources, including traffic conditions, weather information and supplier production calendars. Results show that monitoring delivery stages through indicators provides actionable insights and enables early disruption detection, offering a transparent and interpretable basis for strengthening resilience in internal operations.
