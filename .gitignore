@@ -4,7 +4,11 @@
 node_modules
 deploy.txt
 *.http
+
+# Local data
+local/
 .csv
+
 
 # CDK asset staging directory
 .cdk.staging
