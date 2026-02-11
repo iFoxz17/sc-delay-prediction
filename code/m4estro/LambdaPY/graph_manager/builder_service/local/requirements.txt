@@ -1,7 +1,0 @@
-notebook
-ipykernel
-numpy
-pandas
-matplotlib
-python-igraph
-pycairo
