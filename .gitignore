@@ -4,6 +4,7 @@
 node_modules
 deploy.txt
 *.http
+.csv
 
 # CDK asset staging directory
 .cdk.staging
