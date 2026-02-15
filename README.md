@@ -10,6 +10,10 @@ We present a mathematical framework for representing the delivery stages of supp
 
 A prototype implementation validates the approach by integrating heterogeneous data sources, including traffic conditions, weather information and supplier production calendars. Results show that monitoring delivery stages through indicators provides actionable insights and enables early disruption detection, offering a transparent and interpretable basis for strengthening resilience in internal operations.
 
+## Thesis
+
+Access the full thesis here: [**thesis**](thesis/sc-delay-prediction.pdf). 
+
 ## Repository Structure
 
 - [**`code`**](code/) — Implementation and deployment code. See the [Code](#code) section for more details. 
