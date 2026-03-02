@@ -48,6 +48,14 @@ The [**`code`**](code/) folder contains the main implementation of the research 
 
 - [**`params`**](code/params): Parameterized dashboard and configuration code, along with static assets for visualization.
 
+## Acknowledgments
+
+This work has received funding from the Horizon Europe research and innovation programme under grant agreement No.101138506.
+
+<p align="center">
+  <img src="assets/eu_funded.jpg" width="220"/>
+</p>
+
 ## License
 
 This repository is licensed under the [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/legalcode). See the [LICENSE](LICENSE) file for the full text.
